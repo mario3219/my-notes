@@ -25,10 +25,12 @@ LDFLAGS =   -g -Llib
 # Targets
 
 all: lib/libclientserver.a
-	make -C <location of main>
+	make -C main
 
-execute:
-	#insert execute scripts here
+run:
+	./main/<main>
+	
+#insert execute scripts here
 
 # Create the library; ranlib is for Darwin (OS X) and maybe other systems.
 # Doesn't seem to do any damage on other systems.
@@ -52,7 +54,7 @@ distclean: clean
 	-rm lib/libclientserver.a
 	-rmdir lib
 	-rm $(SRC_COMMON:.cc=.d)
-	make -C <location of main> distclean
+	make -C main distclean
 
 
 # Include the *.d files
