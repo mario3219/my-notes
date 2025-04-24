@@ -1,0 +1,2 @@
+cat file.txt | clip.exe		-	sparar i clipboard output från kommandot till vänster om |
+/mn/d/				-	d kan ersättas med andra drives, (c eller f)
