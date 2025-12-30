@@ -10,6 +10,15 @@ function cropped = cropImage(img, left, right, top, bottom)
 %   bottom : pixels to remove from bottom
 %
 %   Returns the cropped image
+%
+% Example usage:
+% * Have the figure you want to save open, and it will
+% be caught using gcf
+%
+% saveas(gcf, 'test.png')
+% img = imread('test.png');
+% result = cropSides(img, 100);
+% imwrite(result, 'test_new.png');
 
     if any([left right top bottom] < 0)
         error('Crop values must be non-negative');
