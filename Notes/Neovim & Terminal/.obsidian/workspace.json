@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neovim/Configure/Completion plugin.md",
+                "file": "Windows Command Prompt/Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Completion plugin"
+              "title": "Commands"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neovim/Configure/Completion plugin.md",
+                "file": "Windows Command Prompt/Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Completion plugin"
+              "title": "Backlinks for Commands"
             }
           },
           {
@@ -187,7 +187,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Powershell/Commands.md",
+                    "file": "Windows Command Prompt/Commands.md",
                     "mode": "source",
                     "source": false
                   },
@@ -210,9 +210,10 @@
   },
   "active": "784a2109202e1b76",
   "lastOpenFiles": [
-    "Neovim/Configure/Basic init.vim.md",
+    "Windows Command Prompt/Create scripts.md",
+    "Windows Command Prompt/Commands.md",
     "Neovim/Configure/Completion plugin.md",
-    "Powershell/Commands.md",
+    "Neovim/Configure/Basic init.vim.md",
     "Neovim/Configure/Edit init.vim.md",
     "Untitled.md",
     "Neovim/Normal mode.md",
@@ -223,7 +224,7 @@
     "Obsidian",
     "Neovim",
     "Bash",
-    "Powershell",
+    "Windows Command Prompt",
     "Welcome.md"
   ]
 }

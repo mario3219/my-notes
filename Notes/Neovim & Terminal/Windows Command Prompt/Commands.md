@@ -17,5 +17,7 @@
 | cls               | Clear terminal           |
 | cd \| clip        | Save output to clipboard |
 | D:                | Change to another drive  |
+| del               |                          |
 | del \*substring\* |                          |
 | explorer          |                          |
+|                   |                          |

@@ -1,0 +1,9 @@
+```
+\begin{figure}[h]
+\begin{center}
+\includegraphics[width=7.5cm]{}
+\caption{}
+\label{}
+\end{center}
+\end{figure}
+```
