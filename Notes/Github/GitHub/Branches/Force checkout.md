@@ -1,0 +1,3 @@
+```
+git checkout -f <name>
+```

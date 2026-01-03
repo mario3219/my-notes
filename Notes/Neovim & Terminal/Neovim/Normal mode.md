@@ -34,7 +34,6 @@
 | Commands | Description          |
 | -------- | -------------------- |
 | ls       | List unsaved changes |
-|          |                      |
 
 **Window operations**
 

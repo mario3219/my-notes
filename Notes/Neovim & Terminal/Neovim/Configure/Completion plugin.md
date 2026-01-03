@@ -67,13 +67,23 @@ cmp.setup({
 require("mason").setup()
 require("mason-lspconfig").setup()
 
-local lspconfig = require('lspconfig')
 local capabilities = require('cmp_nvim_lsp').default_capabilities()
 
--- Example LSP servers
-lspconfig.pyright.setup{ capabilities = capabilities }
-lspconfig.clangd.setup{ capabilities = capabilities }
-lspconfig.tsserver.setup{ capabilities = capabilities }
+require("mason").setup()
+require("mason-lspconfig").setup({
+  ensure_installed = { "pyright", "clangd", "ts_ls" }
+})
+
+local servers = { "pyright", "clangd", "ts_ls" }
+
+for _, server in ipairs(servers) do
+  vim.lsp.config(server, {
+    capabilities = capabilities,
+  })
+end
+
+vim.lsp.enable(servers)
+
 EOF
 
 ```

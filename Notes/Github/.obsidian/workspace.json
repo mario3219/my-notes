@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "GitHub/Branches/Force checkout.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b7e103d8a749a95a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9b13505d5ed19b71",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Force checkout"
             }
           }
         ]
@@ -176,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -186,6 +171,36 @@
   },
   "active": "8027d0287542d56d",
   "lastOpenFiles": [
-    "Welcome.md"
+    "GitHub/Branches/Merge.md",
+    "GitHub/Branches/Force checkout.md",
+    "GitHub/Other/Ignored files.md",
+    "GitHub/Other/Force push.md",
+    "GitHub/Branches/Basic.md",
+    "GitHub/Force push.md",
+    "GitHub/Other",
+    "GitHub/Branches/Pull branch from remote.md",
+    "GitHub/Branches/Push branch to remote.md",
+    "GitHub/Branches/Merge/Local.md",
+    "GitHub/Branches/Merge/Remote.md",
+    "GitHub/Branches/Merge",
+    "GitHub/Branches/Force update to match remote.md",
+    "GitHub/Branches/Create branch from commit.md",
+    "GitHub/Commits/Revert/Remote.md",
+    "GitHub/Branches",
+    "GitHub/Commits/Revert/Locally.md",
+    "GitHub/Commits/Checkout a commit.md",
+    "GitHub/Conflicts/Errors/error GH001 Large files detected.md",
+    "GitHub/Commits/Revert",
+    "GitHub/Commits",
+    "GitHub/Conflicts/View conflicts.md",
+    "GitHub/Conflicts/Errors",
+    "GitHub/Conflicts/Check conflicted files.md",
+    "GitHub/Conflicts/Mark resolved files.md",
+    "GitHub/Conflicts/Fix conflicts.md",
+    "Pasted image 20260103230201.png",
+    "GitHub/Other/Commit message template.md",
+    "GitHub/Conflicts",
+    "Welcome.md",
+    "GitHub"
   ]
 }
