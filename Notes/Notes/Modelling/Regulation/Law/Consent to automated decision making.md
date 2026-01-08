@@ -1,0 +1,1 @@
+A patient has the right to refuse care that is based on automated decision-making.

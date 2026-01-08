@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Command Prompt/Commands.md",
+                "file": "Obsidian/Tables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Commands"
+              "title": "Tables"
             }
           }
         ]
@@ -166,24 +166,31 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "784a2109202e1b76",
   "lastOpenFiles": [
-    "Neovim/Configure/Custom commands/Botright terminal.md",
+    "Neovim/Normal mode.md",
+    "Obsidian/Image sizes.md",
+    "Obsidian/Text styles.md",
     "Windows Command Prompt/Commands.md",
+    "Obsidian/Underline.md",
+    "Obsidian/Write code.md",
+    "Windows Command Prompt/Create scripts.md",
+    "Excalidraw/Drawing 2026-01-06 10.29.32.excalidraw.md",
+    "Excalidraw",
+    "Untitled.md",
+    "Untitled.base",
+    "Neovim/Configure/Custom commands/Botright terminal.md",
     "Neovim/Configure/Custom commands/Comment & uncomment.md",
     "Neovim/Configure/Custom commands/Replace.md",
     "Neovim/Configure/Custom commands",
     "Neovim/Configure/Edit init.vim.md",
     "Neovim/Configure/Basic init.vim.md",
-    "Neovim/Normal mode.md",
     "Neovim/Insert mode.md",
     "Neovim/Configure/Completion plugin.md",
-    "Windows Command Prompt/Create scripts.md",
-    "Untitled.md",
-    "Obsidian/Write code.md",
     "Obsidian/Tables.md",
     "Neovim/Configure",
     "Obsidian",

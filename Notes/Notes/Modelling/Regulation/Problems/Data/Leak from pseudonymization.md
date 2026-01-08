@@ -1,0 +1,1 @@
+Some companies store information under an identifiable code, which can be used for de-identification. The process is however not defined in GDPR

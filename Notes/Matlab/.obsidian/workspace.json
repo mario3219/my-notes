@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matlab/Topics/Time series analysis/Performance/Generate residuals.md",
+                "file": "Matlab/Programming/Switch-case.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Generate residuals"
+              "title": "Switch-case"
             }
           }
         ]
@@ -171,8 +171,9 @@
   },
   "active": "180beab358e39221",
   "lastOpenFiles": [
-    "Matlab/Programming/Scripts/Crop image.md",
     "Matlab/Topics/Time series analysis/Performance/Generate residuals.md",
+    "Matlab/Programming/Switch-case.md",
+    "Matlab/Programming/Scripts/Crop image.md",
     "Matlab/Data visuals/Plots/Save as png.md",
     "Matlab/Topics/Time series analysis/Data processing/Remove trend.md",
     "Matlab/Topics/Time series analysis/Data processing/Transform data.md",
@@ -206,7 +207,6 @@
     "Matlab/Data visuals/Center f=0 to center of array.md",
     "Matlab/Data visuals/Semilogy.md",
     "Matlab/Data visuals/Envelope.md",
-    "Matlab/Data visuals/Plots/Untitled.md",
-    "Matlab/Data visuals/Plot vertical line.md"
+    "Matlab/Data visuals/Plots/Untitled.md"
   ]
 }

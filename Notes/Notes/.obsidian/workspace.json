@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "a4dff0f5ec8cf6ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "a75e4832e675f6be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1de7b24b7a868f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modelling/Neural Networks/Models/LLM/Development/Encoder-decoder attention.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Encoder-decoder attention"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad0a9af11a63e163",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4b2e692e3ed5b67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c18cc7715bcb7ab0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fd9355cf2b1ba9ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7ca49a57712a17d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 397.5
+  },
+  "right": {
+    "id": "68fe446bdb0bdb97",
+    "type": "split",
+    "children": [
+      {
+        "id": "97ac9fa0995da447",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc6904ae2456f16a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MsC/Image2Count_manuscript.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Image2Count_manuscript"
+            }
+          },
+          {
+            "id": "545879ffb01fadb2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MsC/Image2Count_manuscript.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Image2Count_manuscript"
+            }
+          },
+          {
+            "id": "443fb280bc954fc4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a0865bb49f7d638d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9f6eb939f32f5ff9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MsC/Image2Count_manuscript.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Image2Count_manuscript"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c18cc7715bcb7ab0",
+  "lastOpenFiles": [
+    "Z_Images/Pasted image 20260108215256.png",
+    "Z_Images/Pasted image 20260108215221.png",
+    "Z_Images/Pasted image 20260109000744.png",
+    "Z_Images/Pasted image 20260108235033.png",
+    "Z_Images/Pasted image 20260108234723.png",
+    "Z_Images/Pasted image 20260108234602.png",
+    "Z_Images/Pasted image 20260108234412.png",
+    "Z_Images/Pasted image 20260108232243.png",
+    "Z_Images/Pasted image 20260108232229.png",
+    "Z_Images/Pasted image 20260108231838.png",
+    "Z_Images/Pasted image 20260108231742.png",
+    "Modelling/Neural Networks/Models/LLM/Development/Encoder attention.md",
+    "Modelling/Neural Networks/Models/LLM/Development/Encoder-decoder attention.md",
+    "Modelling/Neural Networks/Models/LLM/Development/5. Residual connection values.md",
+    "Modelling/Neural Networks/Models/LLM/Development/4. Self-attention.md",
+    "Modelling/Neural Networks/Models/LLM/Development/3. Attention.md",
+    "Modelling/Neural Networks/Models/LLM/Development/2. Seq2seq.md",
+    "Modelling/Neural Networks/Models/LLM/Development",
+    "Modelling/Neural Networks/Models/LLM/Development/1. Word embeddings.md",
+    "Modelling/Neural Networks/Models/LLM/Training.md",
+    "Modelling/Neural Networks/Models/RNN (Temporal data)/LSTM/1. Overview.md",
+    "Modelling/Neural Networks/Models/LLM",
+    "Modelling/Neural Networks/Models/RNN (Temporal data)/Recurrent neural network.md",
+    "Modelling/Neural Networks/Models/RNN (Temporal data)/Untitled.md",
+    "Modelling/Neural Networks/Models/RNN (Temporal data)/LSTM",
+    "Modelling/Neural Networks/Models/RNN (Temporal data)/Vanishing gradient problem.md",
+    "Modelling/Neural Networks/Activation functions.md",
+    "Modelling/Neural Networks/Models/RNN (Temporal data)/1. Overview.md",
+    "Modelling/Neural Networks/Models/Finished models/Xception.md",
+    "Modelling/Neural Networks/Models/RNN (Temporal data)",
+    "Modelling/Neural Networks/Models/Finished models/Inception V3.md",
+    "MsC/Research/AI/Models/InceptionV3.md",
+    "Modelling/Neural Networks/Models/Finished models/ResNet.md",
+    "Modelling/Neural Networks/Models/Finished models/VGG.md",
+    "Modelling/Neural Networks/ImageNet.md",
+    "Modelling/Neural Networks/Models/Finished models",
+    "Modelling/Neural Networks/Practical work.md",
+    "Modelling/Neural Networks/Optimization/Regularization.md",
+    "Modelling/Neural Networks/Optimization/Backpropagation.md",
+    "Modelling/Neural Networks/Optimization.md",
+    "Modelling/Neural Networks/Layers/Dense layers.md",
+    "Modelling/Neural Networks/Optimization",
+    "Modelling/Neural Networks/Layers",
+    "Modelling/Neural Networks/Models/CNN (Spatial data)",
+    "Modelling/Neural Networks/Models/C",
+    "Modelling/Neural Networks/Theory"
+  ]
+}

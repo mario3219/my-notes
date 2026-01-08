@@ -1,0 +1,1 @@
+GDPR regulates processing of personal data, which governs storage, transfer, and deletion.

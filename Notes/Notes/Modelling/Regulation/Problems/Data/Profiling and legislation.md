@@ -1,0 +1,1 @@
+Automated processing which assesses patients using personal data is according to GDPR considered as profiling, if it assesses an individual's personal characteristics.

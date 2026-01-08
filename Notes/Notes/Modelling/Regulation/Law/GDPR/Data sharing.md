@@ -1,0 +1,1 @@
+Some suppliers use personal data for product development, research or marketing, but this requires consent for access to personal data.

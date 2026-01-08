@@ -1,0 +1,1 @@
+The prerequisites for information-driven care is using information systems across regions. New information systems that are connected take into account the organizations capacity and preparedness to handle fluctuations, in order to benefit on the individual level but also at the system level.

@@ -1,0 +1,1 @@
+Computes the gradient for a subset of the data, with the assumption that the stochastics of the subset is similar to the whole data

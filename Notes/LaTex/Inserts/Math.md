@@ -21,3 +21,14 @@ P=UI \Leftrightarrow U=\frac{P}{I}
 ```
 \[ \int\limits_0^1 x^2 + y^2 \ dx \]
 ```
+
+![[Pasted image 20260106205352.png]]
+```
+$$
+\hat{y} =
+\begin{cases}
+1 & what \\
+2 & what
+\end{cases}
+$$
+```

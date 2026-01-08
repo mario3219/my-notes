@@ -1,0 +1,16 @@
+Usually part of models involving images.
+
+CNN preserve spatial information by representing the input variables as matrices, compared to inputting all the structure in a vector, losing spatial information. By using a matrix, spatial structure is retained.
+
+![[Pasted image 20260108214801.png]]
+
+Zero padding is used along the borders.
+Fairly insensitive to translations.
+
+A convolutional layer also reduces amount of parameters. In a dense layer, imagine if all pixels were associated with their own weights. That would be one weight for each pixel.
+In a convolutional layer, the sliding filter uses the same weights all the time, no matter the position.
+
+A CNN can use several channels as part of a layer as well.
+
+![[Pasted image 20260108215256.png]]
+
