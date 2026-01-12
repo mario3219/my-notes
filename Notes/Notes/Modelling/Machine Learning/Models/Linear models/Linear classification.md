@@ -6,7 +6,7 @@ Different theta after training results in different probability boundaries for p
 $g(x)$ is the cost function, and is optimized to be maximum for positive- and minimum for negative class.
 
 * Model: $P(y=1|x)=\sigma(w^Tx+b)$
-	$\sigma(z)=\frac{1}{1+e^{-z}}$ (probablity function)
+	$\sigma(z)=\frac{1}{1+e^{-z}}$ (probability function)
 
 Then to make the labelling:
 
