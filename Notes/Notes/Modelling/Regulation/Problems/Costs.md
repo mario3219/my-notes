@@ -14,7 +14,9 @@ This however does not reflect reasonable or acceptable cost for the patient´, n
 
 **Costs differ per region**
 **No distinction is made between direct or indirect costs**
-**Costs are usually only describing care for a visit or session** and not for the entire care chain
+**Costs are usually only describing care for a visit or session** and not for the entire care chain. Problem is that most costs locally are described using KPP.
 
 **Time driven activity based costing TDABC**
 Based on resources that are actually available and possible production capacity, useful to find occupied resources without meaningful impact.
+
+

@@ -1,0 +1,1 @@
+By inputting different kernels for k-NN, different handcrafting models can be used for different purposes, for example using the kernel for levenshtein distance, the cost of changing a word can be calculated.

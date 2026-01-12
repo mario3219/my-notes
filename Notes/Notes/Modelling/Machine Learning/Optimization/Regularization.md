@@ -7,3 +7,5 @@ The model gets *punished* for being too complex. The model gets higher bias, but
 ![[Pasted image 20260106203746.png]]
 **Example of beneficial case**:
 Using $L^2$ Regularization lead to 4 out of 11 parameters being non-zero, and achieved same performance.
+
+Using $L^2$ results in ridge regression.
