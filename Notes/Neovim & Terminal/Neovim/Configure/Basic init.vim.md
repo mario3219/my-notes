@@ -1,4 +1,9 @@
 ````
+
+let mapleader = " "
+" Start in git repository
+"cd D:\git-repositories
+
 " ================================
 " Startup Layout (Explorer + Terminal)
 " ================================
@@ -57,9 +62,20 @@ autocmd BufEnter * if &buftype == '' | setlocal number | endif
 
 let g:netrw_banner = 0          " No top banner
 let g:netrw_liststyle = 3       " Tree-style view
-let g:netrw_browse_split = 0    " Open files in the same window
-let g:netrw_winsize = 25        " Width percentage
 set number
+
+" Always open files from netrw in a vertical split
+let g:netrw_browse_split = 2
+
+" Open splits to the right
+let g:netrw_altv = 1
+
+" Keep netrw buffer open
+let g:netrw_keepdir = 1
+
+let g:netrw_browse_split = 2
+let g:netrw_altv = 1
+let g:netrw_winsize = 80
 
 " ================================
 " Basic Usability Tweaks
@@ -80,3 +96,12 @@ let g:netrw_bufsettings = 'noma nomod nu nowrap ro nobl'
 
 command! -range -nargs=1 CommentRange <line1>,<line2>s/^/<args>/
 command! -range -nargs=1 UnCommentRange <line1>,<line2>s/^<args>//
+
+" ================================
+" Keybinds
+" ================================
+
+nnoremap <leader><Left> :vertical resize -20<CR>
+nnoremap <leader><Right> :vertical resize +20<CR>
+nnoremap <leader><Down> :resize -20<CR>
+nnoremap <leader><Up> :resize +20<CR>

@@ -45,6 +45,7 @@
 | botright split      | Create lower window |
 | vertical resize +20 | Horizontal resizing |
 | resize +20          | Vertical resizing   |
+|                     |                     |
 | tabnew              | Create tab          |
 | tabclose            | Close tab           |
 | tabs                | List tabs           |

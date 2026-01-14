@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Tables.md",
+                "file": "Neovim/Configure/Keybinds/Arrow key resizing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tables"
+              "title": "Arrow key resizing"
             }
           }
         ]
@@ -172,10 +172,17 @@
   },
   "active": "784a2109202e1b76",
   "lastOpenFiles": [
+    "Neovim/Configure/Basic init.vim.md",
+    "Neovim/Configure/Edit init.vim.md",
+    "Neovim/Configure/Completion plugin.md",
+    "Neovim/Configure/Keybinds/Arrow key resizing.md",
+    "Neovim/Configure/Keybinds",
+    "Neovim/Configure/Custom commands/Percentage resizing.md",
     "Neovim/Normal mode.md",
+    "Windows Command Prompt/Commands.md",
+    "Obsidian/Tables.md",
     "Obsidian/Image sizes.md",
     "Obsidian/Text styles.md",
-    "Windows Command Prompt/Commands.md",
     "Obsidian/Underline.md",
     "Obsidian/Write code.md",
     "Windows Command Prompt/Create scripts.md",
@@ -187,11 +194,7 @@
     "Neovim/Configure/Custom commands/Comment & uncomment.md",
     "Neovim/Configure/Custom commands/Replace.md",
     "Neovim/Configure/Custom commands",
-    "Neovim/Configure/Edit init.vim.md",
-    "Neovim/Configure/Basic init.vim.md",
     "Neovim/Insert mode.md",
-    "Neovim/Configure/Completion plugin.md",
-    "Obsidian/Tables.md",
     "Neovim/Configure",
     "Obsidian",
     "Neovim",
