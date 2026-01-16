@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelling/Regulation/Solutions/Costs.md",
+                "file": "Courses/Time-series analysis/Project reflections.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Costs"
+              "title": "Project reflections"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "aecbd16f1dff37ee",
   "lastOpenFiles": [
+    "Modelling/Regulation/Solutions/Costs.md",
+    "Courses/Time-series analysis/Project reflections.md",
+    "Courses/Time-series analysis",
     "Modelling/Regulation/Solutions/Solution approaches/Use AI to solve problems.md",
     "Modelling/Regulation/Solutions/Solution approaches/Patientnytta.md",
     "Modelling/Regulation/Solutions/Solution approaches/Management.md",
@@ -209,8 +212,6 @@
     "Modelling/Regulation/Problems/Data/Using data to improve costs.md",
     "Modelling/Regulation/Problems/Data/Leak from pseudonymization.md",
     "Modelling/Regulation/Problems/Data/Data leaks through AI.md",
-    "Modelling/Regulation/Law/GDPR/Sensitive data.md",
-    "Modelling/Regulation/Law/GDPR/Networks.md",
     "Z_Images/Pasted image 20260110154351.png",
     "Z_Images/Pasted image 20260110135047.png",
     "Z_Images/Pasted image 20260112190303.png",
@@ -229,7 +230,6 @@
     "Modelling/Interpretability/Machine learning/Model-Agnostic methods/Global",
     "Modelling/Interpretability/Machine learning/Model-Agnostic methods",
     "Modelling/Interpretability/Machine learning/Interpretable models",
-    "Modelling/Interpretability",
-    "Modelling/Regulation/ECGs"
+    "Modelling/Interpretability"
   ]
 }
