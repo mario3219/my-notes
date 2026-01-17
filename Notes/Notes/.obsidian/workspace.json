@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "a4dff0f5ec8cf6ee",
+    "id": "f1d0d586336fe24f",
     "type": "split",
     "children": [
       {
-        "id": "40e762045a95d4d4",
+        "id": "d674edbb7f587887",
         "type": "tabs",
         "children": [
           {
-            "id": "aecbd16f1dff37ee",
+            "id": "864593e093419177",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Time-series analysis/Project reflections.md",
+                "file": "MsC/Research/Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project reflections"
+              "title": "Questions"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ad0a9af11a63e163",
+    "id": "bceed8ce9338f7b4",
     "type": "split",
     "children": [
       {
-        "id": "e4b2e692e3ed5b67",
+        "id": "2819170f86cf78e9",
         "type": "tabs",
         "children": [
           {
-            "id": "c18cc7715bcb7ab0",
+            "id": "8e63c731dc63f4c3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "fd9355cf2b1ba9ad",
+            "id": "23dc7dfa08908194",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "7ca49a57712a17d1",
+            "id": "92cc17092a0e90c1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 300
   },
   "right": {
-    "id": "68fe446bdb0bdb97",
+    "id": "be16c474382e749a",
     "type": "split",
     "children": [
       {
-        "id": "97ac9fa0995da447",
+        "id": "a8bf7c56deee9399",
         "type": "tabs",
         "children": [
           {
-            "id": "fc6904ae2456f16a",
+            "id": "ccf77c89ee0e8e2f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MsC/Image2Count_manuscript.md",
+                "file": "MsC/Research/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Image2Count_manuscript"
+              "title": "Backlinks for Questions"
             }
           },
           {
-            "id": "545879ffb01fadb2",
+            "id": "e095ee05876eba12",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MsC/Image2Count_manuscript.md",
+                "file": "MsC/Research/Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Image2Count_manuscript"
+              "title": "Outgoing links from Questions"
             }
           },
           {
-            "id": "443fb280bc954fc4",
+            "id": "b7885d56641b285d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "a0865bb49f7d638d",
+            "id": "92508efe3cb35a5d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +151,18 @@
             }
           },
           {
-            "id": "9f6eb939f32f5ff9",
+            "id": "071af08309e50cbb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "MsC/Image2Count_manuscript.md",
+                "file": "MsC/Research/Questions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Image2Count_manuscript"
+              "title": "Outline of Questions"
             }
           }
         ]
@@ -183,53 +183,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "aecbd16f1dff37ee",
+  "active": "864593e093419177",
   "lastOpenFiles": [
-    "Modelling/Regulation/Solutions/Costs.md",
-    "Courses/Time-series analysis/Project reflections.md",
-    "Courses/Time-series analysis",
-    "Modelling/Regulation/Solutions/Solution approaches/Use AI to solve problems.md",
-    "Modelling/Regulation/Solutions/Solution approaches/Patientnytta.md",
-    "Modelling/Regulation/Solutions/Solution approaches/Management.md",
-    "Modelling/Regulation/Solutions/Data/Using data for development.md",
-    "Modelling/Regulation/Solutions/Data/Precision medicin.md",
-    "Modelling/Regulation/Solutions/Data/Information systems are connected.md",
-    "Modelling/Regulation/Solutions/Data/Information driven care.md",
-    "Modelling/Regulation/Solutions/Data/Ensuring anonymous data.md",
-    "Modelling/Regulation/Problems/Costs.md",
-    "Modelling/Regulation/Problems/Machine learning limitations/Misapplication.md",
-    "Modelling/Regulation/Problems/Machine learning limitations/Interpretability.md",
-    "Modelling/Regulation/Problems/Machine learning limitations/Ethics.md",
-    "Modelling/Regulation/Problems/Machine learning limitations/Deterministic problems.md",
-    "Modelling/Regulation/Problems/Machine learning limitations/Data.md",
-    "Modelling/Regulation/Problems/Industry/The needs.md",
-    "Modelling/Regulation/Problems/Industry/The care providers and their role.md",
-    "Modelling/Regulation/Problems/Industry/Outside parties are taking more space.md",
-    "Modelling/Regulation/Problems/Industry/1. Local perspective.md",
-    "Modelling/Regulation/Problems/Data/Profiling and legislation.md",
-    "Modelling/Regulation/Problems/Data/Quality of care using data.md",
-    "Modelling/Regulation/Problems/Data/Sensitive data.md",
-    "Modelling/Regulation/Problems/Data/Using data to improve costs.md",
-    "Modelling/Regulation/Problems/Data/Leak from pseudonymization.md",
-    "Modelling/Regulation/Problems/Data/Data leaks through AI.md",
-    "Z_Images/Pasted image 20260110154351.png",
-    "Z_Images/Pasted image 20260110135047.png",
-    "Z_Images/Pasted image 20260112190303.png",
-    "Z_Images/Pasted image 20260112185947.png",
-    "Z_Images/Pasted image 20260112182228.png",
-    "Z_Images/Pasted image 20260112181655.png",
-    "Z_Images/Pasted image 20260112181112.png",
-    "Z_Images/Pasted image 20260112175404.png",
-    "Z_Images/Pasted image 20260112175241.png",
-    "Z_Images/Pasted image 20260112174559.png",
-    "Modelling/Neural Networks/Deep survival models",
-    "Modelling/Interpretability/Neural Networks",
-    "Modelling/Interpretability/Machine learning",
-    "Modelling/Interpretability/Machine learning/Counterfactual explanations",
-    "Modelling/Interpretability/Machine learning/Model-Agnostic methods/Local",
-    "Modelling/Interpretability/Machine learning/Model-Agnostic methods/Global",
-    "Modelling/Interpretability/Machine learning/Model-Agnostic methods",
-    "Modelling/Interpretability/Machine learning/Interpretable models",
-    "Modelling/Interpretability"
+    "MsC/Reports/Project plan questions.md"
   ]
 }

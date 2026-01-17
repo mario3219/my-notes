@@ -17,3 +17,12 @@
 \begin{document}
 \end{document}
 ```
+
+
+**Basic**
+
+```
+\documentclass[twocolumn]{IEEEtran}
+\begin{document}
+\end{document}
+```
