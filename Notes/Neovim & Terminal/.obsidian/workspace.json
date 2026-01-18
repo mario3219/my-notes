@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neovim/Configure/Keybinds/Arrow key resizing.md",
+                "file": "Neovim/Configure/Basic init.vim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arrow key resizing"
+              "title": "Basic init.vim"
             }
           }
         ]
@@ -172,12 +172,16 @@
   },
   "active": "784a2109202e1b76",
   "lastOpenFiles": [
-    "Neovim/Configure/Basic init.vim.md",
-    "Neovim/Configure/Edit init.vim.md",
-    "Neovim/Configure/Completion plugin.md",
+    "Neovim/Configure/Keybinds/Exit terminal using ESC.md",
     "Neovim/Configure/Keybinds/Arrow key resizing.md",
-    "Neovim/Configure/Keybinds",
+    "Neovim/Configure/Create and edit init.vim.md",
+    "Neovim/Configure/Completion plugin.md",
+    "Neovim/Configure/Basic init.vim.md",
+    "Neovim/Configure/Custom commands/Replace.md",
     "Neovim/Configure/Custom commands/Percentage resizing.md",
+    "Neovim/Configure/Custom commands/Comment & uncomment.md",
+    "Neovim/Configure/Custom commands/Botright terminal.md",
+    "Neovim/Configure/Keybinds",
     "Neovim/Normal mode.md",
     "Windows Command Prompt/Commands.md",
     "Obsidian/Tables.md",
@@ -190,9 +194,6 @@
     "Excalidraw",
     "Untitled.md",
     "Untitled.base",
-    "Neovim/Configure/Custom commands/Botright terminal.md",
-    "Neovim/Configure/Custom commands/Comment & uncomment.md",
-    "Neovim/Configure/Custom commands/Replace.md",
     "Neovim/Configure/Custom commands",
     "Neovim/Insert mode.md",
     "Neovim/Configure",

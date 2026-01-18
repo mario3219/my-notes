@@ -1,5 +1,4 @@
 ````
-
 let mapleader = " "
 " Start in git repository
 "cd D:\git-repositories
@@ -88,7 +87,6 @@ filetype plugin indent on         " Enable filetype plugins
 
 " Line numbers in :Explore
 let g:netrw_bufsettings = 'noma nomod nu nowrap ro nobl'
-```
 
 " ================================
 " Custom commands
@@ -101,6 +99,7 @@ command! -range -nargs=1 UnCommentRange <line1>,<line2>s/^<args>//
 " Keybinds
 " ================================
 
+tnoremap <Esc> <C-\><C-n>
 nnoremap <leader><Left> :vertical resize -20<CR>
 nnoremap <leader><Right> :vertical resize +20<CR>
 nnoremap <leader><Down> :resize -20<CR>
