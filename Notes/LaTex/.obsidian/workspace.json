@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inserts/Figures/Bullet lists.md",
+                "file": "Inserts/Symbols.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bullet lists"
+              "title": "Symbols"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "f0ee0ef987010b2b",
   "lastOpenFiles": [
+    "Inserts/Math.md",
+    "Inserts/Figures/Bullet lists.md",
     "Inserts/Figures/Images/Paired images.md",
     "Inserts/Document content/Bibliography.md",
     "Writing/URL.md",
@@ -178,7 +180,6 @@
     "Inserts/Symbols.md",
     "Inserts/Document content/Untitled.md",
     "Inserts/Horizontal line.md",
-    "Inserts/Math.md",
     "Inserts/Random text.md",
     "Writing/Mix single- and double-column.md",
     "Inserts/Document content/Title.md",
@@ -201,7 +202,6 @@
     "Coding/Load .tex.md",
     "Coding/Multiblock comment.md",
     "Presentations/Classes/Themes.md",
-    "Presentations/Classes/Fonts.md",
     "Pasted image 20260114150751.png",
     "Pasted image 20260114150721.png",
     "Pasted image 20260114150643.png",

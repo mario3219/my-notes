@@ -11,10 +11,14 @@
             "id": "d6b5527689f18135",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MsC/Research/AI/Models/1. Links to papers proposing other models.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1. Links to papers proposing other models"
             }
           }
         ]
@@ -176,6 +180,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "d6b5527689f18135",
-  "lastOpenFiles": []
+  "active": "f187449492c1576d",
+  "lastOpenFiles": [
+    "MsC/Research/Before project start",
+    "MsC/Research/AI/Models/Vision transformers.md",
+    "MsC/Research/AI/Models/1. Links to papers proposing other models.md",
+    "MsC/Research/AI/Models/DenseNet.md",
+    "MsC/Research/AI/Models/InceptionV3.md",
+    "MsC/Research/AI/Models/KMeans.md",
+    "MsC/Research/AI/Models/ResNet.md",
+    "MsC/Research/Untitled"
+  ]
 }
