@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inserts/Figures/Images/Paired images.md",
+                "file": "Inserts/Figures/Bullet lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paired images"
+              "title": "Bullet lists"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "f0ee0ef987010b2b",
   "lastOpenFiles": [
+    "Inserts/Figures/Images/Paired images.md",
     "Inserts/Document content/Bibliography.md",
     "Writing/URL.md",
     "Writing/Text links.md",
@@ -204,7 +205,6 @@
     "Pasted image 20260114150751.png",
     "Pasted image 20260114150721.png",
     "Pasted image 20260114150643.png",
-    "Presentations/Classes/Colorschemes.md",
     "Pasted image 20260114150424.png",
     "Pasted image 20260114150350.png",
     "Pasted image 20260114150245.png",
