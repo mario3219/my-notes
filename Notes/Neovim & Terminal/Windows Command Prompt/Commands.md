@@ -14,10 +14,11 @@
 | xcopy source_dir destination_dir /E /I /H /Y | Copy directory                    |
 **Other**
 
-| Commands   | Descriptions             |
-| ---------- | ------------------------ |
-| type       | Prints content of file   |
-| cls        | Clear terminal           |
-| cd \| clip | Save output to clipboard |
-| D:         | Change to another drive  |
-| explorer   |                          |
+| Commands          | Descriptions                    |
+| ----------------- | ------------------------------- |
+| type              | Prints content of file          |
+| cls               | Clear terminal                  |
+| cd \| clip        | Save output to clipboard        |
+| D:                | Change to another drive         |
+| explorer          |                                 |
+| start "" $<link>$ | Opens link in internet explorer |

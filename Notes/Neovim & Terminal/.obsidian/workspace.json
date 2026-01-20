@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neovim/Configure/Custom commands/Botright terminal.md",
+                "file": "Windows Command Prompt/Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Botright terminal"
+              "title": "Commands"
             }
           }
         ]
@@ -172,6 +172,9 @@
   },
   "active": "784a2109202e1b76",
   "lastOpenFiles": [
+    "Obsidian/Tables.md",
+    "Windows Command Prompt/Commands.md",
+    "Neovim/Configure/Custom commands/Botright terminal.md",
     "Neovim/Normal mode.md",
     "Neovim/Configure/Basic init.vim.md",
     "Neovim/Configure/Edit init.vim.md",
@@ -179,8 +182,6 @@
     "Neovim/Configure/Completion plugin.md",
     "Neovim/Configure/Keybinds",
     "Neovim/Configure/Custom commands/Percentage resizing.md",
-    "Windows Command Prompt/Commands.md",
-    "Obsidian/Tables.md",
     "Obsidian/Image sizes.md",
     "Obsidian/Text styles.md",
     "Obsidian/Underline.md",

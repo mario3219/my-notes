@@ -1,0 +1,7 @@
+```
+venv\Scripts\activate
+```
+
+````
+deactivate
+```
