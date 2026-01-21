@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MsC/Diary.md",
+                "file": "MsC/Research/Foundation models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diary"
+              "title": "Foundation models"
             }
           }
         ]
@@ -182,14 +182,24 @@
   },
   "active": "d6b5527689f18135",
   "lastOpenFiles": [
-    "MsC/Research/AI/Models/1. Links to papers proposing other models.md",
+    "MsC/Research/Papers/Notes.md",
+    "MsC/Research/Questions.md",
+    "MsC/Research/Foundation models.md",
+    "MsC/Diary/01-21.md",
+    "MsC/Research/Papers/ViT survey/Notes.md",
+    "MsC/Research/Papers/ViT survey/1. link.md",
+    "MsC/Research/Papers",
+    "MsC/Research/Papers/ViT survey",
     "MsC/Diary.md",
+    "MsC/Research/Papers/Image2Count/AI/Models/1. Links to papers proposing other models.md",
+    "MsC/Research/Papers/Image2Count/AI/Models/Vision transformers.md",
+    "MsC/Diary/01-20.md",
+    "MsC/Diary/01-19.md",
+    "MsC/Diary",
     "MsC/Research/Before project start",
-    "MsC/Research/AI/Models/Vision transformers.md",
-    "MsC/Research/AI/Models/DenseNet.md",
-    "MsC/Research/AI/Models/InceptionV3.md",
-    "MsC/Research/AI/Models/KMeans.md",
-    "MsC/Research/AI/Models/ResNet.md",
-    "MsC/Research/Untitled"
+    "MsC/Research/Papers/Image2Count/AI/Models/DenseNet.md",
+    "MsC/Research/Papers/Image2Count/AI/Models/InceptionV3.md",
+    "MsC/Research/Papers/Image2Count/AI/Models/KMeans.md",
+    "MsC/Research/Papers/Image2Count/AI/Models/ResNet.md"
   ]
 }

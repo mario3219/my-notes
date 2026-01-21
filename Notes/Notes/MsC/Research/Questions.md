@@ -1,3 +1,6 @@
+* There are some models pretrained on ImageNet, and used in reports analyzing histopathology. How viable is this?
+Domain gap, not viable
+
 * The models:
 	* A linear prediction head called ResNet for simplicity
 	* Image2Count consisting of purely residual FFW networks

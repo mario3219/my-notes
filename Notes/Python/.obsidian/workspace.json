@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Handling/Install python versions.md",
+                "file": "Python Guide/Imports/Import csv.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Install python versions"
+              "title": "Import csv"
             }
           }
         ]
@@ -172,6 +172,8 @@
   "active": "04774339bd4cb589",
   "lastOpenFiles": [
     "Python Handling/Python venv/Activate and deactivate.md",
+    "Python Guide/Imports/Import csv.md",
+    "Python Guide/Imports",
     "Python Handling/Python venv/Create env.md",
     "Python Handling/Install python versions.md",
     "Python Handling/Command prompts.md",

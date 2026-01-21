@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Fix conflicts"
             }
+          },
+          {
+            "id": "60739aff194366d8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +196,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "dd18f90c3c4ef597",
+  "active": "60739aff194366d8",
   "lastOpenFiles": [
     "Conflicts/Check conflicted files.md"
   ]
