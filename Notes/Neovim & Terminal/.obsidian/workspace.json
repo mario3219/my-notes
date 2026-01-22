@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neovim/Keybinds/Normal mode from terminal.md",
+                "file": "Bash/Add $PATH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Normal mode from terminal"
+              "title": "Add $PATH"
             }
           }
         ]
@@ -170,9 +170,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8fc19050a9830ae0",
+  "active": "784a2109202e1b76",
   "lastOpenFiles": [
-    "Neovim/1. Starter kit repo.md",
+    "Neovim/Updating neovim in WSL.md",
+    "Bash/Add $PATH.md",
+    "Bash/1. Commands.md",
+    "Obsidian/Tables.md",
+    "Neovim/1. First setup.md",
+    "Bash",
     "Neovim/Keybinds/Normal mode from terminal.md",
     "Neovim/old/Normal mode.md",
     "Neovim/Keybinds",
@@ -190,7 +195,6 @@
     "Neovim/old/Configure/Plugins/Completion plugin.md",
     "Windows Command Prompt/Commands.md",
     "Neovim/old/Configure/Plugins",
-    "Obsidian/Tables.md",
     "Neovim/Configure/Edit init.vim.md",
     "Neovim/old/Configure/Keybinds",
     "Obsidian/Image sizes.md",
@@ -203,8 +207,6 @@
     "Untitled.base",
     "Neovim/old/Custom commands",
     "Neovim/old/Configure",
-    "Obsidian",
-    "Neovim",
-    "Welcome.md"
+    "Obsidian"
   ]
 }
