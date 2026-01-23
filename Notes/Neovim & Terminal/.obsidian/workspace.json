@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bash/Add $PATH.md",
+                "file": "Neovim/Setup/Errors/treesitter failed to source.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Add $PATH"
+              "title": "treesitter failed to source"
             }
           }
         ]
@@ -172,41 +172,43 @@
   },
   "active": "784a2109202e1b76",
   "lastOpenFiles": [
-    "Neovim/Updating neovim in WSL.md",
+    "Pasted image 20260123010209.png",
+    "Pasted image 20260123004253.png",
+    "Pasted image 20260123001420.png",
+    "Neovim/Setup/Errors/nvim failed to run 'config' for nvim-lspconfig attemp to call field setup handlers.md",
+    "Neovim/Setup/Errors/treesitter failed to source.md",
+    "Neovim/Setup/Initial install.md",
+    "Neovim/Setup/Errors",
+    "Neovim/old/Configure/Keybinds/Arrow key resizing.md",
+    "Neovim/old/Configure/Keybinds/Exit terminal using ESC.md",
+    "Neovim/old/Configure/Plugins/Completion plugin.md",
+    "Neovim/old/Configure/Plugins/Tree-sitter Python highlighting.md",
+    "Neovim/old/Configure/Basic init.vim.md",
+    "Neovim/old/Configure/Create and edit init.vim.md",
+    "Neovim/Normal mode.md",
+    "Neovim/Setup/luarocks and lua.md",
     "Bash/Add $PATH.md",
+    "Neovim/Setup",
+    "Neovim/Updating neovim in WSL.md",
     "Bash/1. Commands.md",
     "Obsidian/Tables.md",
-    "Neovim/1. First setup.md",
     "Bash",
     "Neovim/Keybinds/Normal mode from terminal.md",
-    "Neovim/old/Normal mode.md",
     "Neovim/Keybinds",
-    "Neovim/old/Configure/Keybinds/Exit terminal using ESC.md",
-    "Neovim/old/Configure/Keybinds/Arrow key resizing.md",
     "Neovim/old/Custom commands/Botright terminal.md",
     "Neovim/old/Custom commands/Comment & uncomment.md",
     "Neovim/old/Custom commands/Percentage resizing.md",
     "Neovim/old/Custom commands/Replace.md",
-    "Neovim/old/Insert mode.md",
+    "Neovim/Insert mode.md",
     "Neovim/old",
-    "Neovim/old/Configure/Basic init.vim.md",
     "Obsidian/Text styles.md",
-    "Neovim/old/Configure/Plugins/Tree-sitter Python highlighting.md",
-    "Neovim/old/Configure/Plugins/Completion plugin.md",
     "Windows Command Prompt/Commands.md",
     "Neovim/old/Configure/Plugins",
     "Neovim/Configure/Edit init.vim.md",
     "Neovim/old/Configure/Keybinds",
     "Obsidian/Image sizes.md",
-    "Obsidian/Underline.md",
-    "Obsidian/Write code.md",
-    "Windows Command Prompt/Create scripts.md",
-    "Excalidraw/Drawing 2026-01-06 10.29.32.excalidraw.md",
     "Excalidraw",
-    "Untitled.md",
     "Untitled.base",
-    "Neovim/old/Custom commands",
-    "Neovim/old/Configure",
-    "Obsidian"
+    "Neovim/old/Custom commands"
   ]
 }
