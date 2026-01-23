@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aed77602e2be3dc5",
+        "id": "1958275f8633827a",
         "type": "tabs",
         "children": [
           {
-            "id": "784a2109202e1b76",
+            "id": "735f132b0ddf937d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -170,16 +170,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "784a2109202e1b76",
+  "active": "735f132b0ddf937d",
   "lastOpenFiles": [
-    "Bash/1. Commands.md",
+    "Neovim/Keybinds.md",
+    "Neovim/Normal mode.md",
+    "Obsidian/Tables.md",
+    "Neovim/Updating neovim in WSL.md",
+    "Neovim/Keybinds/Normal mode from terminal.md",
+    "Neovim/Setup/Errors/(unresolved) treesitter failed to source.md",
+    "Obsidian/Write code.md",
+    "Neovim/Setup/Errors/nvim failed to run 'config' for nvim-lspconfig attemp to call field setup handlers.md",
+    "Neovim/Setup/Initial install.md",
+    "Neovim/Setup/luarocks and lua.md",
     "Bash/Make git WSL use Windows Git credentials.md",
-    "Neovim/Setup/Errors/treesitter failed to source.md",
+    "Bash/1. Commands.md",
     "Pasted image 20260123010209.png",
     "Pasted image 20260123004253.png",
     "Pasted image 20260123001420.png",
-    "Neovim/Setup/Errors/nvim failed to run 'config' for nvim-lspconfig attemp to call field setup handlers.md",
-    "Neovim/Setup/Initial install.md",
     "Neovim/Setup/Errors",
     "Neovim/old/Configure/Keybinds/Arrow key resizing.md",
     "Neovim/old/Configure/Keybinds/Exit terminal using ESC.md",
@@ -187,14 +194,9 @@
     "Neovim/old/Configure/Plugins/Tree-sitter Python highlighting.md",
     "Neovim/old/Configure/Basic init.vim.md",
     "Neovim/old/Configure/Create and edit init.vim.md",
-    "Neovim/Normal mode.md",
-    "Neovim/Setup/luarocks and lua.md",
     "Bash/Add $PATH.md",
     "Neovim/Setup",
-    "Neovim/Updating neovim in WSL.md",
-    "Obsidian/Tables.md",
     "Bash",
-    "Neovim/Keybinds/Normal mode from terminal.md",
     "Neovim/Keybinds",
     "Neovim/old/Custom commands/Botright terminal.md",
     "Neovim/old/Custom commands/Comment & uncomment.md",
@@ -205,9 +207,7 @@
     "Obsidian/Text styles.md",
     "Windows Command Prompt/Commands.md",
     "Neovim/old/Configure/Plugins",
-    "Neovim/Configure/Edit init.vim.md",
     "Neovim/old/Configure/Keybinds",
-    "Obsidian/Image sizes.md",
     "Excalidraw",
     "Untitled.base",
     "Neovim/old/Custom commands"

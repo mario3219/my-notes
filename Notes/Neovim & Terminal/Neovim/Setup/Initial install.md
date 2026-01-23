@@ -28,6 +28,12 @@ npm -v
 npx -v
 ```
 
+Install luarocks and lua
+```
+sudo apt update
+sudo apt install -y lua5.1 luarocks
+```
+
 Install ripgrep
 ```
 sudo apt-get install ripgrep

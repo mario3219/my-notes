@@ -1,1 +1,0 @@
-[How to Install or Upgrade neovim, the easy way](https://blog.mikadifo.com/2024/05/how-to-install-or-upgrade-neovim-easy.html)

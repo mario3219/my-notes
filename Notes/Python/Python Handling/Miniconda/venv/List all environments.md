@@ -1,3 +1,0 @@
-```
-conda env list
-```

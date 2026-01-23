@@ -5,47 +5,15 @@ For now, disable the plugin. Open
 
 And use this instead:
 ```
--- Code Tree Support / Syntax Highlighting
-
 return {
-
-  "nvim-treesitter/nvim-treesitter",
-
-  build = ":TSUpdate",
-
-  lazy = false,
-
-  priority = 1000,
-
-  dependencies = {
-
-    "nvim-treesitter/nvim-treesitter-textobjects",
-
-    enabled = false,
-
-  },
-
-  opts = {
-
-    highlight = { enable = true },
-
-    indent = { enable = true },
-
-    auto_install = true,
-
-    ensure_installed = { "lua" },
-
-  },
-
-  config = function(_, opts)
-
-    require("nvim.treesitter.configs").setup(opts)
-
-  end,
-
-  enabled = false,
-
+  'nvim-treesitter/nvim-treesitter',
+  enabled = false,
 }
+```
+
+And then
+```
+:Lazy sync
 ```
 
 ****
@@ -54,39 +22,22 @@ return {
 
 ```
 return {
-
   "nvim-treesitter/nvim-treesitter",
-
   build = ":TSUpdate",
-
   lazy = false,
-
   priority = 1000,
-
   dependencies = {
-
     "nvim-treesitter/nvim-treesitter-textobjects",
-
   },
-
   opts = {
-
     highlight = { enable = true },
-
     indent = { enable = true },
-
     auto_install = true,
-
     ensure_installed = { "lua" },
-
   },
-
   config = function(_, opts)
-
     require("vim.treesitter.configs").setup(opts)
-
   end,
-
 }
 ```
 
