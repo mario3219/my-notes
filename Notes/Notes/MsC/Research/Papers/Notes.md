@@ -39,3 +39,6 @@ UNETR has been developed as powerful transformer based models, namely U-net Tran
 (3) clinical translational impact by predicting survival outcomes and canonical pathological regions via predicted SGE. In addition, we considered 
 (4) the usability of the methods encompassing code, documentation and the manuscript;
 (5) and the computational efficiency"
+
+**How to train your transformer**
+[2106.10270](https://arxiv.org/pdf/2106.10270)
