@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neovim/Setup/Custom functions/Comment & UnComment.md",
+                "file": "Neovim/Setup/Initial install.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comment & UnComment"
+              "title": "Initial install"
             }
           }
         ]
@@ -172,18 +172,20 @@
   },
   "active": "735f132b0ddf937d",
   "lastOpenFiles": [
-    "Bash/Make git WSL use Windows Git credentials.md",
     "Neovim/Setup/Custom functions/Comment & UnComment.md",
-    "Neovim/Setup/Custom functions",
-    "Neovim/Keybinds.md",
+    "Neovim/Setup/Custom functions/VsCode extension.md",
     "Neovim/Normal mode.md",
+    "Neovim/Keybinds.md",
+    "Neovim/Setup/Initial install.md",
     "Obsidian/Tables.md",
+    "Obsidian/Text styles.md",
+    "Bash/Make git WSL use Windows Git credentials.md",
+    "Neovim/Setup/Custom functions",
     "Neovim/Updating neovim in WSL.md",
     "Neovim/Keybinds/Normal mode from terminal.md",
     "Neovim/Setup/Errors/(unresolved) treesitter failed to source.md",
     "Obsidian/Write code.md",
     "Neovim/Setup/Errors/nvim failed to run 'config' for nvim-lspconfig attemp to call field setup handlers.md",
-    "Neovim/Setup/Initial install.md",
     "Neovim/Setup/luarocks and lua.md",
     "Bash/1. Commands.md",
     "Pasted image 20260123010209.png",
@@ -204,9 +206,7 @@
     "Neovim/old/Custom commands/Comment & uncomment.md",
     "Neovim/old/Custom commands/Percentage resizing.md",
     "Neovim/old/Custom commands/Replace.md",
-    "Neovim/Insert mode.md",
     "Neovim/old",
-    "Obsidian/Text styles.md",
     "Neovim/old/Configure/Plugins",
     "Neovim/old/Configure/Keybinds",
     "Excalidraw",

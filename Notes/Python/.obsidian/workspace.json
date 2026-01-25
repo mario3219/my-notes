@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Guide/Libraries/PyTorch/Creating models/Imported architectures/Class description.md",
+                "file": "Python Guide/Libraries/PyTorch/Creating models/Imported architectures/Customize imported model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class description"
+              "title": "Customize imported model"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 316.5
   },
   "right": {
     "id": "bb64ed7c8d9704c7",
@@ -171,14 +171,31 @@
   },
   "active": "037dd43a8431d31b",
   "lastOpenFiles": [
-    "Python Guide/Class.md",
-    "Python Guide/Define main structure.md",
     "Python Guide/Libraries/PyTorch/Creating models/Imported architectures/Class description.md",
-    "Python Guide/Libraries/PyTorch/Access last layer.md",
-    "Python Guide/Libraries/PyTorch/Creating models/Imported architectures",
-    "Python Guide/Libraries/PyTorch/Creating models",
+    "Python Guide/Libraries/PyTorch/Creating models/General model class.md",
+    "Python Guide/Libraries/PyTorch/Using models/Instantiate model.md",
+    "Python Guide/Libraries/PyTorch/Using models/Inference.md",
+    "Python Guide/Libraries/PyTorch/Using models/Validation.md",
+    "Python Guide/Libraries/PyTorch/Using models/Training.md",
+    "Python Guide/Libraries/PyTorch/Using models/Train mode vs inference mode.md",
+    "Python Guide/Libraries/PyTorch/1. General code.md",
+    "Python Handling/conda/conda commands.md",
+    "Python Handling/conda/1. Install Anaconda.md",
+    "Python Handling/conda/1. Install Miniconda.md",
+    "Python Handling/Python venv/Dependencies.md",
+    "Python Handling/Python venv/Create env.md",
+    "Python Handling/Python venv/Activate and deactivate.md",
+    "Python Guide/Libraries/PyTorch/Creating models/Imported architectures/Customize imported model.md",
+    "Python Guide/Libraries/PyTorch/Using models",
     "Python Guide/Libraries/PyTorch/Use CUDA.md",
     "Python Guide/Libraries/PyTorch/Save & Load models.md",
+    "Python Guide/Libraries/PyTorch/Access last layer.md",
+    "Python Handling/conda/Errors/Untitled.md",
+    "Python Handling/conda/Errors",
+    "Python Guide/Class.md",
+    "Python Guide/Define main structure.md",
+    "Python Guide/Libraries/PyTorch/Creating models/Imported architectures",
+    "Python Guide/Libraries/PyTorch/Creating models",
     "Python Guide/Arguments on runtime.md",
     "Python Guide/Libraries/timm/Create model.md",
     "Python Guide/Libraries/timm/1. Overview.md",
@@ -187,25 +204,8 @@
     "Python Guide/Libraries/PyTorch",
     "Python Guide/args.md",
     "Python Guide/Untitled",
-    "Python Guide/Show images.md",
-    "Python Handling/Install python versions.md",
     "Python Guide/Libraries",
-    "Python Handling/conda/conda commands.md",
-    "Python Handling/conda/venv/List all environments.md",
-    "Python Handling/conda/venv/Import required packages.md",
-    "Python Handling/conda/venv/Export required packages.md",
-    "Python Handling/conda/venv/Create and activate venv.md",
-    "Python Handling/conda/venv/Copy packages from base.md",
-    "Python Handling/conda/1. Install Anaconda.md",
-    "Python Handling/conda/1. Install Miniconda.md",
-    "Python Handling/Python venv/Activate and deactivate.md",
-    "Python Handling/Add directories to PATH.md",
-    "Python Guide/Imports/Import csv.md",
     "Python Guide/Imports",
-    "Python Handling/Python venv/Create env.md",
-    "Python Handling/Python venv/Dependencies.md",
-    "Python Handling/Python venv",
-    "Python Handling/conda/venv",
-    "Python Handling/conda"
+    "Python Handling/Python venv"
   ]
 }
