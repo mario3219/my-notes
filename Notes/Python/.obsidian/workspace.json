@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Guide/Libraries/PyTorch/Save & Load models.md",
+                "file": "Python Guide/Libraries/PyTorch/Creating models/Imported architectures/Class description.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Save & Load models"
+              "title": "Class description"
             }
           }
         ]
@@ -171,16 +171,22 @@
   },
   "active": "037dd43a8431d31b",
   "lastOpenFiles": [
+    "Python Guide/Class.md",
+    "Python Guide/Define main structure.md",
+    "Python Guide/Libraries/PyTorch/Creating models/Imported architectures/Class description.md",
+    "Python Guide/Libraries/PyTorch/Access last layer.md",
+    "Python Guide/Libraries/PyTorch/Creating models/Imported architectures",
+    "Python Guide/Libraries/PyTorch/Creating models",
+    "Python Guide/Libraries/PyTorch/Use CUDA.md",
+    "Python Guide/Libraries/PyTorch/Save & Load models.md",
     "Python Guide/Arguments on runtime.md",
     "Python Guide/Libraries/timm/Create model.md",
     "Python Guide/Libraries/timm/1. Overview.md",
-    "Python Guide/Libraries/PyTorch/Save & Load models.md",
     "Python Guide/Libraries/timm",
     "Python Handling/1. Command prompts.md",
     "Python Guide/Libraries/PyTorch",
     "Python Guide/args.md",
     "Python Guide/Untitled",
-    "Python Guide/Define main structure.md",
     "Python Guide/Show images.md",
     "Python Handling/Install python versions.md",
     "Python Guide/Libraries",
@@ -198,14 +204,8 @@
     "Python Guide/Imports",
     "Python Handling/Python venv/Create env.md",
     "Python Handling/Python venv/Dependencies.md",
-    "Python Handling/Python venv/Install packages.md",
     "Python Handling/Python venv",
-    "Python Handling/Remove from PATH.md",
     "Python Handling/conda/venv",
-    "Python Handling/conda",
-    "Libraries/argparse.md",
-    "Welcome.md",
-    "Libraries",
-    "Topics"
+    "Python Handling/conda"
   ]
 }
