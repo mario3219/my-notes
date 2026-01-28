@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Guide/Classes/Properties.md",
+                "file": "Python Handling/Find library install location.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Properties"
+              "title": "Find library install location"
             }
           }
         ]
@@ -169,12 +169,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3a0486dcc483892",
+  "active": "037dd43a8431d31b",
   "lastOpenFiles": [
-    "Python Guide/Classes",
-    "Python Handling/Find library install location.md",
-    "Python Guide/Classes/Properties.md",
+    "Python Guide/Libraries/PyTorch/Using models/Save&Load/For ViTForImageClassification.md",
+    "Python Guide/Libraries/PyTorch/Using models/Save&Load/For pytorch.md",
     "Python Handling/1. Command prompts.md",
+    "Python Handling/Install python versions.md",
+    "Python Handling/Find library install location.md",
+    "Python Guide/Libraries/PyTorch/Using models/Save&Load",
+    "Python Guide/Libraries/timm/Create model.md",
+    "Python Guide/Classes/Properties.md",
+    "Python Guide/Classes",
     "Python Guide/Libraries/numpy/Data/Data operations/Random ints.md",
     "Python Guide/Imports&Exports/csv.md",
     "Python Guide/Libraries/Pandas/Data Processing/Create dataset.md",
@@ -201,11 +206,6 @@
     "Python Guide/Libraries/Pandas/Data Processing/E.md",
     "Python Guide/Libraries/Pandas/Data Processing/Get/Get row containing x.md",
     "Python Guide/Libraries/Pandas/Data Processing/Edit/Replace values.md",
-    "Python Guide/Libraries/Pandas/Data Processing/Edit/Fill NaNs.md",
-    "Python Guide/Libraries/Pandas/Data Processing/Get/Extract data and target columns.md",
-    "Python Guide/Libraries/Pandas/Data Processing/Add/Assign column.md",
-    "Python Guide/Libraries/Pandas/Data Processing",
-    "Python Guide/Libraries/Pandas/1. Import pandas.md",
-    "Python Guide/Libraries/Pandas"
+    "Python Guide/Libraries/Pandas/Data Processing/Edit/Fill NaNs.md"
   ]
 }

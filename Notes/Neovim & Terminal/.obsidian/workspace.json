@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neovim/Setup/Initial install.md",
+                "file": "Bash/1. Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Initial install"
+              "title": "1. Commands"
             }
           }
         ]
@@ -172,11 +172,11 @@
   },
   "active": "735f132b0ddf937d",
   "lastOpenFiles": [
+    "Neovim/Setup/Initial install.md",
     "Neovim/Setup/Custom functions/Comment & UnComment.md",
     "Neovim/Setup/Custom functions/VsCode extension.md",
     "Neovim/Normal mode.md",
     "Neovim/Keybinds.md",
-    "Neovim/Setup/Initial install.md",
     "Obsidian/Tables.md",
     "Obsidian/Text styles.md",
     "Bash/Make git WSL use Windows Git credentials.md",

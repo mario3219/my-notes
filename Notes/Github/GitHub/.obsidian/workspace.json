@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Branches/Basic.md",
+                "file": "Conflicts/Errors/error GH001 Large files detected.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic"
+              "title": "error GH001 Large files detected"
             }
           }
         ],
@@ -200,6 +200,7 @@
   },
   "active": "60739aff194366d8",
   "lastOpenFiles": [
+    "Branches/Basic.md",
     "Conflicts/Check conflicted files.md"
   ]
 }
