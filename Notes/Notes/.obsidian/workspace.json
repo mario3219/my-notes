@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MsC/Research/(Multiplex) Foundation models.md",
+                "file": "MsC/Coding/3. Code planning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(Multiplex) Foundation models"
+              "title": "3. Code planning"
             }
           }
         ]
@@ -182,17 +182,20 @@
   },
   "active": "4b7300f9b0f19054",
   "lastOpenFiles": [
-    "MsC/Diary/01-28.md",
-    "MsC/Research/(Multiplex) Foundation models.md",
-    "MsC/Coding/4. Model script for Image2Count.md",
-    "MsC/Research/(H&E) Foundation models.md",
+    "MsC/Diary/01-29.md",
     "MsC/Coding/3. Code planning.md",
+    "MsC/Research/Papers/GeoMx.md",
+    "MsC/Coding/4. Model script for Image2Count.md",
+    "Pasted image 20260129140640.png",
+    "MsC/Coding/2. Code planning.md",
+    "MsC/Research/(Multiplex) Foundation models.md",
+    "MsC/Diary/01-28.md",
+    "MsC/Research/(H&E) Foundation models.md",
     "MsC/Coding/1. Code planning.md",
     "MsC/Research/Papers/Notes.md",
     "MsC/Research/Questions.md",
     "MsC/Diary/01-25.md",
     "MsC/Diary/01-26.md",
-    "MsC/Coding/2. Code planning.md",
     "MsC/Diary/01-27.md",
     "Modelling/Machine Learning/Models/1. Models.md",
     "Modelling/Machine Learning/Models/Nonlinear transformations/Kernel k-NN.md",
@@ -208,10 +211,7 @@
     "MsC/Workshop/Writing/Revising.md",
     "MsC/Workshop/Writing",
     "MsC/Workshop/Researching",
-    "MsC/Workshop/Researching/Reading articles.md",
-    "MsC/Workshop/Researching/Keywords.md",
     "MsC/Workshop",
-    "MsC/Workshop/Researching/Using finn.md",
     "Pasted image 20260122101142.png",
     "MsC/Research/Papers",
     "MsC/Research/Papers/ViT survey",

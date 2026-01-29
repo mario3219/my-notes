@@ -1,0 +1,1 @@
+[Activating Two-factor authentication (2FA - OneTouch) - LUNARC Documentation](https://lunarc-documentation.readthedocs.io/en/latest/getting_started/authenticator_howto/#checking-the-validity-of-your-token)

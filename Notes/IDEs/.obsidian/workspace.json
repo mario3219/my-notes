@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bash/1. Commands.md",
+                "file": "Bash/Make git WSL use Windows Git credentials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Commands"
+              "title": "Make git WSL use Windows Git credentials"
             }
           }
         ]
@@ -172,6 +172,8 @@
   },
   "active": "735f132b0ddf937d",
   "lastOpenFiles": [
+    "Bash/Add $PATH.md",
+    "Bash/1. Commands.md",
     "Neovim/Setup/Initial install.md",
     "Neovim/Setup/Custom functions/Comment & UnComment.md",
     "Neovim/Setup/Custom functions/VsCode extension.md",
@@ -187,7 +189,6 @@
     "Obsidian/Write code.md",
     "Neovim/Setup/Errors/nvim failed to run 'config' for nvim-lspconfig attemp to call field setup handlers.md",
     "Neovim/Setup/luarocks and lua.md",
-    "Bash/1. Commands.md",
     "Pasted image 20260123010209.png",
     "Pasted image 20260123004253.png",
     "Pasted image 20260123001420.png",
@@ -198,7 +199,6 @@
     "Neovim/old/Configure/Plugins/Tree-sitter Python highlighting.md",
     "Neovim/old/Configure/Basic init.vim.md",
     "Neovim/old/Configure/Create and edit init.vim.md",
-    "Bash/Add $PATH.md",
     "Neovim/Setup",
     "Bash",
     "Neovim/Keybinds",
