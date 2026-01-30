@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub/Other/Ignored files.md",
+                "file": "GitHub/Conflicts/Errors/error GH001 Large files detected.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ignored files"
+              "title": "error GH001 Large files detected"
             }
           }
         ]
@@ -171,12 +171,13 @@
   },
   "active": "8027d0287542d56d",
   "lastOpenFiles": [
+    "GitHub/Other/Ignored files.md",
+    "GitHub/Other/Force push.md",
+    "GitHub/Other/Commit message template.md",
     "GitHub/Commits/Checkout a commit.md",
     "GitHub/Commits/Revert/Locally.md",
     "GitHub/Branches/Force checkout.md",
     "GitHub/Branches/Merge.md",
-    "GitHub/Other/Ignored files.md",
-    "GitHub/Other/Force push.md",
     "GitHub/Branches/Basic.md",
     "GitHub/Force push.md",
     "GitHub/Other",
@@ -198,7 +199,6 @@
     "GitHub/Conflicts/Mark resolved files.md",
     "GitHub/Conflicts/Fix conflicts.md",
     "Pasted image 20260103230201.png",
-    "GitHub/Other/Commit message template.md",
     "GitHub/Conflicts",
     "Welcome.md",
     "GitHub"

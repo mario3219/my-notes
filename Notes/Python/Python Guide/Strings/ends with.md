@@ -1,0 +1,3 @@
+```
+mystring.endswith(".tif")
+```
