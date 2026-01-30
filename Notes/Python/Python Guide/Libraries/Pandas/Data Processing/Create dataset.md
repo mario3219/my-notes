@@ -12,3 +12,8 @@ df = pd.DataFrame(columns=["col1", "col2", "col3"])
 # numpy to pandas
 df = pd.DataFrame(my_array)
 ```
+
+Zero filled dataset
+```
+df = pd.DataFrame(0, index=np.arange(rows), columns=cols)
+```

@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "456b08c9123f15f1",
+    "id": "ee5250b67fc05a0f",
     "type": "split",
     "children": [
       {
-        "id": "96d65ea83f6e8c66",
+        "id": "2bba09e93bab67df",
         "type": "tabs",
         "children": [
           {
-            "id": "4b7300f9b0f19054",
+            "id": "0e60abc396f0cad8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MsC/Diary/01-30.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "01-30"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8b755bc7efaba8f0",
+    "id": "dc4a57d952bf0cf8",
     "type": "split",
     "children": [
       {
-        "id": "ecfe6eb4fc1187a0",
+        "id": "0a16b8b70e65307b",
         "type": "tabs",
         "children": [
           {
-            "id": "f187449492c1576d",
+            "id": "8b7dcbe0ce8b7bba",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "718f42d471fee5d6",
+            "id": "74a8e859e585ad66",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "ae78c5a47e76aabf",
+            "id": "5432cff5a445ede0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "f9272c631816579a",
+    "id": "0a5f90722dd606fd",
     "type": "split",
     "children": [
       {
-        "id": "5a352644db943853",
+        "id": "f0e5d70d4a53729f",
         "type": "tabs",
         "children": [
           {
-            "id": "e87566c896f3582b",
+            "id": "7cdbc55d0b8a6139",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -107,7 +103,7 @@
             }
           },
           {
-            "id": "c5048bd18aecd7eb",
+            "id": "6df34b6ddd5c7673",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -120,7 +116,7 @@
             }
           },
           {
-            "id": "a327c6fe595b656f",
+            "id": "eb35f9b257bda550",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,7 +131,7 @@
             }
           },
           {
-            "id": "57166117378158ef",
+            "id": "b6c1d2c68afa4336",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -149,7 +145,7 @@
             }
           },
           {
-            "id": "8a9490b8427119ee",
+            "id": "f5888fdea3122a71",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -180,43 +176,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "4b7300f9b0f19054",
-  "lastOpenFiles": [
-    "MsC/QuPath ROI cutout.md",
-    "MsC/Diary/01-30.md",
-    "MsC/Coding/3. Code planning.md",
-    "MsC/Diary/01-29.md",
-    "MsC/Research/Papers/GeoMx.md",
-    "MsC/Coding/4. Model script for Image2Count.md",
-    "Pasted image 20260129140640.png",
-    "MsC/Coding/2. Code planning.md",
-    "MsC/Research/(Multiplex) Foundation models.md",
-    "MsC/Diary/01-28.md",
-    "MsC/Research/(H&E) Foundation models.md",
-    "MsC/Coding/1. Code planning.md",
-    "MsC/Research/Papers/Notes.md",
-    "MsC/Research/Questions.md",
-    "MsC/Diary/01-25.md",
-    "MsC/Diary/01-26.md",
-    "MsC/Diary/01-27.md",
-    "Modelling/Machine Learning/Models/1. Models.md",
-    "Modelling/Machine Learning/Models/Nonlinear transformations/Kernel k-NN.md",
-    "MsC/Diary/01-23.md",
-    "MsC/Coding/tiff generator.md",
-    "MsC/Coding",
-    "MsC/Diary/01-22.md",
-    "MsC/Diary/01-21.md",
-    "MsC/Workshop/Writing/Writing academic texts.md",
-    "MsC/Workshop/Writing/Free writing.md",
-    "MsC/Workshop/Writing/Licensing.md",
-    "MsC/Workshop/Writing/References.md",
-    "MsC/Workshop/Writing",
-    "MsC/Workshop/Researching",
-    "MsC/Workshop",
-    "Pasted image 20260122101142.png",
-    "MsC/Research/Papers",
-    "MsC/Research/Papers/ViT survey",
-    "MsC/Diary",
-    "MsC/Research/Before project start"
-  ]
+  "active": "0e60abc396f0cad8",
+  "lastOpenFiles": []
 }
