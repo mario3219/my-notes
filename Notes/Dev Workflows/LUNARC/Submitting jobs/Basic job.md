@@ -19,3 +19,22 @@ Which outputs:
 Submitted batch job 7185
 ```
 Where 7185 is the job number assigned by SLURM, and the output will be found in a file slurm-7185.out.
+
+****
+
+Example by Markus:
+
+```
+#!/bin/bash  
+#SBATCH -t 2-16:00  
+#SBATCH --ntasks-per-node=14  
+#SBATCH --no-requeue  
+#SBATCH -J oc_FU  
+#SBATCH -o /lunarc/nobackup/projects/lu2024-17-35/mjheid/roi/oc_FU.log  
+#SBATCH -e /lunarc/nobackup/projects/lu2024-17-35/mjheid/roi/oc_FU.log
+
+module load Anaconda3  
+conda activate chil
+
+python -m run_roi
+```

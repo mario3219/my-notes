@@ -8,3 +8,10 @@
 | conda env export > environment.yml       | Export required packages                           |
 | conda env create -f environment.yml      | Create environment using required packages in .yml |
 | conda create -n myenv --clone base       | Copy packages from base                            |
+**System commands**
+
+| Command                                                           | Output                                        |
+| ----------------------------------------------------------------- | --------------------------------------------- |
+| conda config --show-sources                                       | Show where configs are loaded from            |
+| conda config --show channels                                      | Show which channels are used as conda sources |
+| conda create -n myenv -c channel1 -c channel2 --override-channels | Override config channel sources               |
