@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MsC/Diary/02-03.md",
+                "file": "MsC/Diary/02-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-03"
+              "title": "02-04"
             }
           }
         ]
@@ -182,8 +182,11 @@
   },
   "active": "4b7300f9b0f19054",
   "lastOpenFiles": [
-    "MsC/Research/(Multiplex) Foundation models.md",
+    "MsC/Coding/1. Code planning.md",
+    "MsC/Coding/2. Code planning.md",
     "MsC/Diary/02-03.md",
+    "MsC/Diary/02-04.md",
+    "MsC/Research/(Multiplex) Foundation models.md",
     "MsC/Diary/01-27.md",
     "MsC/Diary/01-26.md",
     "MsC/Diary/01-25.md",
@@ -199,9 +202,7 @@
     "MsC/Research/Papers/GeoMx.md",
     "MsC/Coding/4. Model script for Image2Count.md",
     "Pasted image 20260129140640.png",
-    "MsC/Coding/2. Code planning.md",
     "MsC/Research/(H&E) Foundation models.md",
-    "MsC/Coding/1. Code planning.md",
     "MsC/Research/Papers/Notes.md",
     "MsC/Research/Questions.md",
     "Modelling/Machine Learning/Models/1. Models.md",
@@ -209,7 +210,6 @@
     "MsC/Diary/01-23.md",
     "MsC/Coding/tiff generator.md",
     "MsC/Coding",
-    "MsC/Diary/01-22.md",
     "MsC/Workshop/Writing",
     "MsC/Workshop/Researching",
     "MsC/Workshop",

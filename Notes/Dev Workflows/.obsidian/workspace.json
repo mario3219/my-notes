@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LUNARC/2. Transferring files.md",
+                "file": "Bash/Scripts/If else statements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Transferring files"
+              "title": "If else statements"
             }
           }
         ]
@@ -172,6 +172,14 @@
   },
   "active": "735f132b0ddf937d",
   "lastOpenFiles": [
+    "Bash/Scripts/Long commands.md",
+    "Bash/Scripts/If else statements.md",
+    "Bash/Scripts/Arguments.md",
+    "Neovim/Keybinds.md",
+    "Neovim/Setup/Custom functions/VsCode extension.md",
+    "Neovim/Setup/Custom functions/Comment & UnComment.md",
+    "Bash/Scripts",
+    "LUNARC/2. Transferring files.md",
     "Obsidian/Tables.md",
     "LUNARC/Submitting jobs/Script commands.md",
     "LUNARC/Submitting jobs/Basic job.md",
@@ -180,7 +188,6 @@
     "LUNARC/1. Overview.md",
     "LUNARC/Submitting jobs/1. Overview.md",
     "LUNARC/Logging in.md",
-    "LUNARC/2. Transferring files.md",
     "LUNARC/Two-factor authentication.md",
     "LUNARC/Open Shell environment.md",
     "Bash/1. Commands.md",
@@ -188,17 +195,11 @@
     "Bash/Make git WSL use Windows Git credentials.md",
     "Bash/Add $PATH.md",
     "Neovim/Setup/Initial install.md",
-    "Neovim/Setup/Custom functions/Comment & UnComment.md",
-    "Neovim/Setup/Custom functions/VsCode extension.md",
     "Neovim/Normal mode.md",
-    "Neovim/Keybinds.md",
     "Obsidian/Text styles.md",
     "Neovim/Setup/Custom functions",
     "Neovim/Updating neovim in WSL.md",
     "Neovim/Keybinds/Normal mode from terminal.md",
-    "Neovim/Setup/Errors/(unresolved) treesitter failed to source.md",
-    "Obsidian/Write code.md",
-    "Neovim/Setup/Errors/nvim failed to run 'config' for nvim-lspconfig attemp to call field setup handlers.md",
     "Pasted image 20260123010209.png",
     "Pasted image 20260123004253.png",
     "Pasted image 20260123001420.png",
@@ -209,7 +210,6 @@
     "Neovim/old",
     "Neovim/old/Configure/Plugins",
     "Neovim/old/Configure/Keybinds",
-    "Excalidraw",
-    "Untitled.base"
+    "Excalidraw"
   ]
 }
