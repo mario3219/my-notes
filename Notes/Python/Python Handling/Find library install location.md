@@ -9,5 +9,3 @@ run:
 >> import <library>
 >> print(<library>.__file__)
 ```
-
-torch geometric

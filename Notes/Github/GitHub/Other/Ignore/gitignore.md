@@ -18,3 +18,4 @@ Are inside the .gitignore file, and will be ignored by git.
 ```
 git status --ignored
 ```
+

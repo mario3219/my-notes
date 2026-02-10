@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libraries/Pandas/Data Processing/Load&Save csv.md",
+                "file": "Python Handling/Find library install location.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Load&Save csv"
+              "title": "Find library install location"
+            }
+          },
+          {
+            "id": "fae89271c7f285bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Libraries/PyTorch/Tensors/Replace in dimension.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Replace in dimension"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 373.5
   },
   "right": {
     "id": "bb64ed7c8d9704c7",
@@ -169,43 +184,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "037dd43a8431d31b",
+  "active": "fae89271c7f285bc",
   "lastOpenFiles": [
+    "Libraries/PyTorch/Tensors/Append to a dimension.md",
+    "Libraries/PyTorch/Tensors/Replace in dimension.md",
+    "Libraries/Pandas/Data Processing/Frame/Get/Access rows & columns.md",
+    "Libraries/PyTorch/Tensors",
+    "Libraries/Pandas/Data Processing/Frame/Get/Get column names.md",
+    "Libraries/PyTorch/Creating models/Save&Load/For pytorch.md",
+    "Python Guide/Dictionaries/1. Ordered dictionaties/Remove/Remove if key contains.md",
+    "Python Guide/Dictionaries/1. Ordered dictionaties/Edit/Replace substrings in keys.md",
+    "Python Guide/Dictionaries/Edit/Replace substrings in keys.md",
+    "Python Guide/Dictionaries/1. Ordered dictionaties/Iterate.md",
+    "Python Guide/Dictionaries/1. Ordered dictionaties/Edit",
+    "Python Guide/Dictionaries/Iterate keys.md",
+    "Python Guide/Dictionaries/Remove/Remove by key.md",
+    "Python Guide/Dictionaries/1. Ordered dictionaties/Remove",
+    "Python Guide/Dictionaries/1. Ordered dictionaties",
+    "Python Guide/Dictionaries/Remove",
+    "Python Guide/Dictionaries/Get/Key names.md",
+    "Python Guide/Dictionaries/Get",
+    "Libraries/PyTorch/Get state_dict.md",
+    "Python Guide/Dictionaries/Edit",
+    "Python Guide/Define main structure.md",
+    "Python Guide/Dictionaries",
+    "Libraries/PyTorch/Use CUDA.md",
+    "Libraries/PyTorch/Creating models/Save&Load/For ViTForImageClassification.md",
+    "Libraries/PyTorch/Using models/Inference.md",
+    "Python Handling/Find library install location.md",
+    "Libraries/os/Create paths.md",
+    "Python Handling/conda/conda commands.md",
+    "Libraries/Pandas/Data Processing/Load&Save csv.md",
     "Libraries/Pandas/Data Processing/Frame/Remove/Drop rows.md",
     "Libraries/Pandas/Data Processing/Frame/Edit/Rename columns.md",
-    "Libraries/Pandas/Data Processing/Frame/Get/Access rows & columns.md",
-    "Libraries/os/Create paths.md",
     "Libraries/pathlib/Create paths from a list.md",
     "Libraries/pathlib/Get items in folder.md",
     "Python Guide/Strings/Large blocks of strings.md",
-    "Libraries/os/Get directory separator.md",
-    "Python Guide/Arguments on runtime.md",
-    "Python Guide/Strings/Strings with other types.md",
-    "Python Guide/Strings/ends with.md",
-    "Python Guide/Strings/contains.md",
-    "Libraries/Pandas/Data Processing/Load&Save csv.md",
-    "Libraries/Pandas/1. Import pandas.md",
-    "Python Handling/conda/conda commands.md",
-    "Libraries/os/Get folder contents.md",
-    "Untitled.md",
-    "Python Guide/Lists/Add/Add to last.md",
-    "Python Guide/Lists/Add/Add at index.md",
     "Python Guide/Lists/Add",
-    "Libraries/Pandas/Data Processing/Frame/Get/Get row or column containing x.md",
-    "Libraries/Pandas/Data Processing/Frame/Edit/Replace values.md",
-    "Libraries/Pandas/Data Processing/Iterate.md",
-    "Libraries/Pandas/Data Processing/Frame/Get/Get index.md",
-    "Python Guide/Libraries/Pandas/Data Processing/Frame/Get/Get row containing x.md",
-    "Libraries/Pandas/Data Processing/Frame/Remove/Drop columns.md",
-    "Python Guide/Lists/Add/Append list to list.md",
-    "Libraries/Pandas/Data Processing/Series/Get",
-    "Libraries/Pandas/Data Processing/Series/Add",
-    "Libraries/Pandas/Data Processing/Frame",
-    "Libraries/Pandas/Data Processing/Series",
-    "Libraries/os",
-    "Libraries/pathlib",
-    "Libraries/numpy/Data/Add",
-    "Python Guide/Error handling",
-    "Python Guide/Lists"
+    "Libraries/Pandas/Data Processing/Series/Get"
   ]
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bash/Scripts/If else statements.md",
+                "file": "LUNARC/2. Transferring files.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "If else statements"
+              "title": "2. Transferring files"
             }
           }
         ]
@@ -172,22 +172,19 @@
   },
   "active": "735f132b0ddf937d",
   "lastOpenFiles": [
+    "LUNARC/Logging in.md",
+    "LUNARC/2. Transferring files.md",
+    "LUNARC/Interactive mode.md",
+    "LUNARC/Submitting jobs/Basic job.md",
+    "LUNARC/Submitting jobs/Script commands.md",
+    "LUNARC/Submitting jobs/2. Bash commands.md",
     "Bash/Scripts/Long commands.md",
     "Bash/Scripts/If else statements.md",
     "Bash/Scripts/Arguments.md",
-    "Neovim/Keybinds.md",
-    "Neovim/Setup/Custom functions/VsCode extension.md",
-    "Neovim/Setup/Custom functions/Comment & UnComment.md",
     "Bash/Scripts",
-    "LUNARC/2. Transferring files.md",
     "Obsidian/Tables.md",
-    "LUNARC/Submitting jobs/Script commands.md",
-    "LUNARC/Submitting jobs/Basic job.md",
-    "LUNARC/Submitting jobs/2. Bash commands.md",
-    "LUNARC/Interactive mode.md",
     "LUNARC/1. Overview.md",
     "LUNARC/Submitting jobs/1. Overview.md",
-    "LUNARC/Logging in.md",
     "LUNARC/Two-factor authentication.md",
     "LUNARC/Open Shell environment.md",
     "Bash/1. Commands.md",
@@ -195,7 +192,10 @@
     "Bash/Make git WSL use Windows Git credentials.md",
     "Bash/Add $PATH.md",
     "Neovim/Setup/Initial install.md",
+    "Neovim/Setup/Custom functions/Comment & UnComment.md",
+    "Neovim/Setup/Custom functions/VsCode extension.md",
     "Neovim/Normal mode.md",
+    "Neovim/Keybinds.md",
     "Obsidian/Text styles.md",
     "Neovim/Setup/Custom functions",
     "Neovim/Updating neovim in WSL.md",

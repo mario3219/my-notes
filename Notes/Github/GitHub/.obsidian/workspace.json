@@ -27,16 +27,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conflicts/Errors/error GH001 Large files detected.md",
+                "file": "Other/Ignore/Ignore contents in a folder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "error GH001 Large files detected"
+              "title": "Ignore contents in a folder"
+            }
+          },
+          {
+            "id": "b375a07dac8e690f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,8 +210,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "60739aff194366d8",
+  "active": "b375a07dac8e690f",
   "lastOpenFiles": [
+    "Other/Ignore/Ignore files ending with.md",
+    "Other/Ignore/Ignore contents in a folder.md",
+    "Other/Tracking/Remove file from history.md",
+    "Other/Ignore",
+    "Conflicts/Errors/error GH001 Large files detected.md",
+    "Other/Tracking/Reset tracked files.md",
+    "Other/Ignore/gitignore.md",
+    "Other/Tracking",
+    "Other/Increase timouts.md",
+    "Other/Tracking/List tracked files sizes.md",
     "Branches/Basic.md",
     "Conflicts/Check conflicted files.md"
   ]
