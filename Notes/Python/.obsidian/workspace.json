@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libraries/tqdm.md",
+                "file": "Python Guide/Error handling/raise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tqdm"
+              "title": "raise"
             }
           }
         ],
@@ -186,8 +186,11 @@
   },
   "active": "fae89271c7f285bc",
   "lastOpenFiles": [
-    "Python Guide/Arguments on runtime.md",
+    "Libraries/PyTorch/Dataloaders.md",
+    "Python Guide/Yield.md",
+    "Python Guide/Generators",
     "Libraries/tqdm.md",
+    "Python Guide/Arguments on runtime.md",
     "Python Guide/args.md",
     "Python Guide/Strings/Large blocks of strings.md",
     "Python Handling/conda/Saving environments.md",
@@ -216,11 +219,8 @@
     "Python Guide/Dictionaries/1. Ordered dictionaties/Remove",
     "Python Guide/Dictionaries/1. Ordered dictionaties",
     "Python Guide/Dictionaries/Remove",
-    "Python Guide/Dictionaries/Get/Key names.md",
     "Python Guide/Dictionaries/Get",
-    "Libraries/PyTorch/Get state_dict.md",
     "Python Guide/Dictionaries/Edit",
-    "Python Guide/Dictionaries",
-    "Python Guide/Lists/Add"
+    "Python Guide/Dictionaries"
   ]
 }

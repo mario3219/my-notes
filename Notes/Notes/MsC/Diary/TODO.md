@@ -6,6 +6,8 @@
 	(Currently on hold because im implementing the full dataloader from deepcell)
 * Automatic channel names extraction from .xlsx
 * Check if mpp is stored in .png masks metadata or if have to use .tif files instead, fix in qupath
+* Add batch implementation
+* I2C stores cells.npy per ROI, and creates embeddings pt per ROI
 
 **Idea**
 * (DONE) Create masks from qupath cell segments

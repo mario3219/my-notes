@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LUNARC/2. Transferring files.md",
+                "file": "LUNARC/Interactive mode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Transferring files"
+              "title": "Interactive mode"
             }
           }
         ]
@@ -172,9 +172,9 @@
   },
   "active": "735f132b0ddf937d",
   "lastOpenFiles": [
-    "LUNARC/Interactive mode.md",
     "LUNARC/Logging in.md",
     "LUNARC/2. Transferring files.md",
+    "LUNARC/Interactive mode.md",
     "LUNARC/Submitting jobs/2. Bash commands.md",
     "LUNARC/1. Overview.md",
     "LUNARC/Submitting jobs/Basic job.md",
