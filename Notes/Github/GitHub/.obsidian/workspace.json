@@ -39,12 +39,14 @@
             "id": "b375a07dac8e690f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "Branches/Merge.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "Merge"
             }
           }
         ],
@@ -212,6 +214,7 @@
   },
   "active": "b375a07dac8e690f",
   "lastOpenFiles": [
+    "Branches/1. Commands.md",
     "Other/Ignore/Ignore files ending with.md",
     "Other/Ignore/Ignore contents in a folder.md",
     "Other/Tracking/Remove file from history.md",
@@ -222,7 +225,6 @@
     "Other/Tracking",
     "Other/Increase timouts.md",
     "Other/Tracking/List tracked files sizes.md",
-    "Branches/Basic.md",
     "Conflicts/Check conflicted files.md"
   ]
 }

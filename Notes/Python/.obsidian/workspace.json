@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libraries/PyTorch/Tensors/Replace in dimension.md",
+                "file": "Libraries/tqdm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Replace in dimension"
+              "title": "tqdm"
             }
           }
         ],
@@ -186,11 +186,25 @@
   },
   "active": "fae89271c7f285bc",
   "lastOpenFiles": [
-    "Libraries/PyTorch/Tensors/Append to a dimension.md",
+    "Python Guide/Arguments on runtime.md",
+    "Libraries/tqdm.md",
+    "Python Guide/args.md",
+    "Python Guide/Strings/Large blocks of strings.md",
+    "Python Handling/conda/Saving environments.md",
+    "Libraries/Pandas/Data Processing/Frame/Get/Get column names.md",
+    "Python Guide/Error handling/Assert.md",
+    "Python Guide/Lists/Untitled.md",
+    "Libraries/Pandas/Data Processing/Load&Save csv.md",
+    "Libraries/os/Create paths.md",
+    "Python Guide/Classes/__iter__.md",
+    "Python Guide/Strings/Remove/Remove substring.md",
+    "Libraries/os/If path exists.md",
+    "Python Guide/Strings/Remove",
+    "Libraries/os/Get directory separator.md",
     "Libraries/PyTorch/Tensors/Replace in dimension.md",
+    "Libraries/PyTorch/Tensors/Append to a dimension.md",
     "Libraries/Pandas/Data Processing/Frame/Get/Access rows & columns.md",
     "Libraries/PyTorch/Tensors",
-    "Libraries/Pandas/Data Processing/Frame/Get/Get column names.md",
     "Libraries/PyTorch/Creating models/Save&Load/For pytorch.md",
     "Python Guide/Dictionaries/1. Ordered dictionaties/Remove/Remove if key contains.md",
     "Python Guide/Dictionaries/1. Ordered dictionaties/Edit/Replace substrings in keys.md",
@@ -206,21 +220,7 @@
     "Python Guide/Dictionaries/Get",
     "Libraries/PyTorch/Get state_dict.md",
     "Python Guide/Dictionaries/Edit",
-    "Python Guide/Define main structure.md",
     "Python Guide/Dictionaries",
-    "Libraries/PyTorch/Use CUDA.md",
-    "Libraries/PyTorch/Creating models/Save&Load/For ViTForImageClassification.md",
-    "Libraries/PyTorch/Using models/Inference.md",
-    "Python Handling/Find library install location.md",
-    "Libraries/os/Create paths.md",
-    "Python Handling/conda/conda commands.md",
-    "Libraries/Pandas/Data Processing/Load&Save csv.md",
-    "Libraries/Pandas/Data Processing/Frame/Remove/Drop rows.md",
-    "Libraries/Pandas/Data Processing/Frame/Edit/Rename columns.md",
-    "Libraries/pathlib/Create paths from a list.md",
-    "Libraries/pathlib/Get items in folder.md",
-    "Python Guide/Strings/Large blocks of strings.md",
-    "Python Guide/Lists/Add",
-    "Libraries/Pandas/Data Processing/Series/Get"
+    "Python Guide/Lists/Add"
   ]
 }

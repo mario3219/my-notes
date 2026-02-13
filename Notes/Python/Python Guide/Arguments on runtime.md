@@ -18,3 +18,8 @@ if __name__ == '__main__':
 	main(**args)
 ```
 
+String list
+```
+    parser.add_argument("--channel_names",nargs='+',type=str, default="")
+```
+
