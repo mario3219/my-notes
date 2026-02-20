@@ -17,3 +17,11 @@ Zero filled dataset
 ```
 df = pd.DataFrame(0, index=np.arange(rows), columns=cols)
 ```
+
+Empty filled dataset
+```
+df = pd.DataFrame(  
+np.empty((n_rows, len(cols))),
+columns=cols  
+)
+```
