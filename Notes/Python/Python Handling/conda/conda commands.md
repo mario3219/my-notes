@@ -1,3 +1,8 @@
+| Command                | Output             |
+| ---------------------- | ------------------ |
+| conda list mypackage   | List package       |
+| conda remove mypackage | Uninstalls package |
+
 | Command                                  | Output                                             |
 | ---------------------------------------- | -------------------------------------------------- |
 | conda create -n myenv python=3.11        | Create env                                         |

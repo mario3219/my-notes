@@ -1,0 +1,3 @@
+```
+plt.savefig(path)
+```

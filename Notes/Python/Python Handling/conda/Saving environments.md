@@ -18,3 +18,18 @@ Transfer tar to new PC and unpack
 tar -xzf myenv.tar.gz
 ./myenv/bin/conda-unpack
 ```
+
+ ****
+
+Using yml
+```
+conda env export -n myenv > env.yml
+```
+
+```
+conda env create -f env.yml
+```
+
+```
+conda activate myenv
+```
