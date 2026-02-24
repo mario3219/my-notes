@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MsC/Diary/02/02-23.md",
+                "file": "MsC/Diary/02/02-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-23"
+              "title": "02-24"
             }
           }
         ],
@@ -197,9 +197,10 @@
   },
   "active": "205f5b9655f7d826",
   "lastOpenFiles": [
+    "MsC/Diary/02/02-23.md",
+    "MsC/Diary/02/02-24.md",
     "Pasted image 20260223145418.png",
     "MsC/Diary/02/02-20.md",
-    "MsC/Diary/02/02-23.md",
     "Pasted image 20260220162427.png",
     "Pasted image 20260220162414.png",
     "Pasted image 20260220141208.png",
@@ -234,7 +235,6 @@
     "Modelling/Interpretability/Machine learning/Interpretable models/Linear regression.md",
     "Other/journal club",
     "Other",
-    "Pasted image 20260210154011.png",
     "MsC/Diary/02",
     "MsC/Diary/01",
     "MsC/Coding",
