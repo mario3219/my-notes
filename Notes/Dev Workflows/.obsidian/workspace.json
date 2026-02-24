@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LUNARC/2. Transferring files.md",
+                "file": "Groovy/Iterate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Transferring files"
+              "title": "Iterate"
             }
           }
         ]
@@ -172,12 +172,22 @@
   },
   "active": "b04e4c47da2ac57a",
   "lastOpenFiles": [
+    "Groovy/If else.md",
+    "Groovy/Data structures/Get.md",
+    "Groovy/Data structures/Create.md",
+    "Neovim/Setup/Custom functions/Comment & UnComment.md",
+    "Groovy/Data structures",
+    "Groovy/Iterate.md",
+    "Bash/tar.gz installation.md",
+    "Groovy/File paths.md",
+    "Groovy/Functions.md",
+    "Groovy/Lists.md",
+    "Neovim/Setup/Custom functions/Refresh tree-sitter.md",
+    "Neovim/Keybinds/Normal mode from terminal.md",
+    "LUNARC/2. Transferring files.md",
     "LUNARC/Logging in.md",
     "LUNARC/1. Overview.md",
-    "LUNARC/2. Transferring files.md",
     "LUNARC/Interactive mode.md",
-    "Groovy/Functions.md",
-    "Groovy/File paths.md",
     "Groovy",
     "LUNARC/Submitting jobs/2. Bash commands.md",
     "LUNARC/Submitting jobs/Basic job.md",
@@ -191,15 +201,6 @@
     "LUNARC/Two-factor authentication.md",
     "LUNARC/Open Shell environment.md",
     "Bash/1. Commands.md",
-    "LUNARC/Submitting jobs/Job dependencies.md",
-    "Bash/Make git WSL use Windows Git credentials.md",
-    "Bash/Add $PATH.md",
-    "Neovim/Setup/Initial install.md",
-    "Neovim/Setup/Custom functions/Comment & UnComment.md",
-    "Neovim/Setup/Custom functions/VsCode extension.md",
-    "Neovim/Normal mode.md",
-    "Neovim/Keybinds.md",
-    "Obsidian/Text styles.md",
     "Neovim/Setup/Custom functions",
     "Pasted image 20260123010209.png",
     "Pasted image 20260123004253.png",
@@ -209,7 +210,6 @@
     "Bash",
     "Neovim/Keybinds",
     "Neovim/old",
-    "Neovim/old/Configure/Plugins",
-    "Neovim/old/Configure/Keybinds"
+    "Neovim/old/Configure/Plugins"
   ]
 }

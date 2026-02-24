@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libraries/tqdm.md",
+                "file": "Libraries/numpy/Data/Add/padding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tqdm"
+              "title": "padding"
             }
           }
         ],
@@ -186,6 +186,10 @@
   },
   "active": "fae89271c7f285bc",
   "lastOpenFiles": [
+    "Python Guide/Lists/Add/Add to last.md",
+    "Python Guide/Error handling/raise.md",
+    "Python Guide/Lists/Get unique.md",
+    "Libraries/tqdm.md",
     "Libraries/os/makedir.md",
     "Libraries/argparse.md",
     "Libraries/os/Create paths.md",
@@ -204,17 +208,13 @@
     "Python Guide/Strings/contains.md",
     "Libraries/os/Remove file.md",
     "Libraries/os/If path exists.md",
-    "Python Guide/Error handling/raise.md",
     "Libraries/Pandas/Data Processing/Iterate.md",
     "Libraries/Pandas/Data Processing/Frame/Get/Get column names.md",
     "Libraries/matplotlib.pyplot/subplots.md",
     "Libraries/matplotlib.pyplot/Import.md",
     "Libraries/skimage/read tiff.md",
     "Libraries/matplotlib.pyplot/savefig.md",
-    "Libraries/numpy/Data/Add/padding.md",
-    "Libraries/Pandas/Data Processing/Frame/Get/Get row or column containing x.md",
     "Libraries/matplotlib.pyplot",
-    "Libraries/Pandas/Data Processing/Load&Save csv.md",
     "Libraries/numpy/Data/Remove",
     "Libraries/skimage",
     "Python Guide/Generators",

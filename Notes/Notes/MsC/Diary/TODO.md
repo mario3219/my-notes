@@ -1,3 +1,8 @@
+* Make transcripts extraction (label.csv) work for several tifs
+* Make image processing more efficient
+* The preprocessor handles all images at the same time, but some ROIs are gonna come from different original images. The global properties handling needs to be changed
+	* Suggestion, in the image_preprocess function, find all unique image names, and iterate through them, extract relevant paths and pass that through the cell_seg function
+****
 * (DONE) Make preprocessing process for the whole image as a whole, not per ROI
 	* Starts in cell_seg
 	* Start to extract characteristics before the segmenting cells loop, by calling get_global_properties
