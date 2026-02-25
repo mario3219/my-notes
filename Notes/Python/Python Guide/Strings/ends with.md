@@ -1,3 +1,0 @@
-```
-mystring.endswith(".tif")
-```
