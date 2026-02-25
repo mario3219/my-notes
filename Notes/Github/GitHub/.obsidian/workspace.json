@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Branches/Create branch from commit.md",
+                "file": "Branches/Push branch to remote.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Create branch from commit"
+              "title": "Push branch to remote"
             }
           }
         ],
@@ -214,6 +214,7 @@
   },
   "active": "b375a07dac8e690f",
   "lastOpenFiles": [
+    "Branches/Create branch from commit.md",
     "Branches/Force update to match remote.md",
     "Branches/Merge.md",
     "Branches/1. Commands.md",

@@ -12,5 +12,17 @@ df_filtered = df[df["label"].str.contains("cell")]
 ```
 
 ```
-    counts = counts[counts['ROI'].isin(roi_labels)].reset_index(drop=True)
+counts = counts[counts['ROI'].isin(roi_labels)].reset_index(drop=True)
+```
+
+If strings are indexed:
+```
+image_1
+image_4
+image_2
+```
+
+Then
+```
+subset = df[df["Image"].str.startswith("image_")]
 ```

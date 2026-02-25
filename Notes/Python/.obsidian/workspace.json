@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "79f0f5544dd1aa19",
+        "id": "547532a04176e0eb",
         "type": "tabs",
         "children": [
           {
-            "id": "037dd43a8431d31b",
+            "id": "a6d32b9aedf01096",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Handling/Find library install location.md",
+                "file": "Libraries/dask/Creating processes/Using delayed decorated functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Find library install location"
-            }
-          },
-          {
-            "id": "fae89271c7f285bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Libraries/numpy/Data/Add/padding.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "padding"
+              "title": "Using delayed decorated functions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,12 +169,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fae89271c7f285bc",
+  "active": "a6d32b9aedf01096",
   "lastOpenFiles": [
-    "Python Guide/Lists/Add/Add to last.md",
-    "Python Guide/Error handling/raise.md",
-    "Python Guide/Lists/Get unique.md",
+    "Libraries/dask/Creating processes/Example.md",
+    "Libraries/Pandas/Data Processing/Frame/Get/Get dimensions.md",
+    "Libraries/numpy/Data/Remove/Squeeze.md",
+    "Libraries/Pandas/Data Processing/Frame/Edit/Sort by column.md",
+    "Libraries/Pandas/Data Processing/Frame/Get/Get row or column containing x.md",
+    "Libraries/dask/Creating processes/Progress bar.md",
+    "Libraries/dask/Creating processes/Client.md",
+    "Libraries/dask/1. Overview.md",
+    "Libraries/dask/Creating processes/Using delayed decorated functions.md",
+    "Python Handling/Find library install location.md",
+    "Libraries/numpy/Data/Get/percentile.md",
+    "Libraries/dask/Creating processes",
+    "Libraries/numpy/Data/Get/ptp.md",
+    "Libraries/numpy/Data/Get",
     "Libraries/tqdm.md",
+    "Libraries/dask",
+    "Python Guide/Lists/Get unique.md",
     "Libraries/os/makedir.md",
     "Libraries/argparse.md",
     "Libraries/os/Create paths.md",
@@ -204,23 +202,10 @@
     "Python Guide/Arguments on runtime.md",
     "Libraries/os/Move files.md",
     "Python Guide/If statements.md",
-    "Libraries/csv stream.md",
-    "Python Guide/Strings/contains.md",
-    "Libraries/os/Remove file.md",
-    "Libraries/os/If path exists.md",
-    "Libraries/Pandas/Data Processing/Iterate.md",
-    "Libraries/Pandas/Data Processing/Frame/Get/Get column names.md",
-    "Libraries/matplotlib.pyplot/subplots.md",
-    "Libraries/matplotlib.pyplot/Import.md",
-    "Libraries/skimage/read tiff.md",
-    "Libraries/matplotlib.pyplot/savefig.md",
     "Libraries/matplotlib.pyplot",
     "Libraries/numpy/Data/Remove",
     "Libraries/skimage",
     "Python Guide/Generators",
-    "Python Guide/Strings/Remove",
-    "Libraries/PyTorch/Tensors",
-    "Python Guide/Dictionaries/1. Ordered dictionaties/Edit",
-    "Python Guide/Dictionaries/1. Ordered dictionaties/Remove"
+    "Python Guide/Strings/Remove"
   ]
 }
