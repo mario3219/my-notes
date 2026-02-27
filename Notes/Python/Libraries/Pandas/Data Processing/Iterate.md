@@ -16,3 +16,10 @@ for row in df[["slide", "roi_id", "count"]].itertuples(index=False):
 ```
 for col in df.columns
 ```
+
+Iterate column and rows
+```
+for col in df.columns:
+    for idx, val in df[col].items():
+        print(f"column={col}, row={idx}, value={val}")
+```

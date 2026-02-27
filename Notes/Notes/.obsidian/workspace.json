@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MsC/Diary/02/02-25.md",
+                "file": "MsC/Diary/02/02-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-25"
+              "title": "02-27"
             }
           }
         ]
@@ -182,8 +182,12 @@
   },
   "active": "dbc13e85c2b76d12",
   "lastOpenFiles": [
-    "MsC/Diary/02/02-24.md",
+    "Pasted image 20260227161445.png",
+    "MsC/Diary/02/02-26.md",
+    "MsC/Diary/02/02-27.md",
+    "MsC/Research/(Multiplex) Foundation models.md",
     "MsC/Diary/02/02-25.md",
+    "MsC/Diary/02/02-24.md",
     "Modelling/Interpretability/Machine learning/Model-Agnostic methods/Global/H-statistic.md",
     "MsC/Diary/02/02-23.md",
     "Pasted image 20260223145418.png",
@@ -214,10 +218,6 @@
     "Modelling/Machine Learning/Models/Nonliner models/DecisionTree.md",
     "Modelling/Machine Learning/Models/Nonlinear transformations/Support vector models/SVM.md",
     "Courses/Data-driven health/Essential notes.md",
-    "Modelling/Machine Learning/Models/Ensemble models/Boosting/1. Boosting.md",
-    "Modelling/Machine Learning/Models/Nonlinear transformations/Kernels.md",
-    "Modelling/Interpretability/Machine learning/Model-Agnostic methods/Global/PDP.md",
-    "Modelling/Interpretability/Machine learning/Model-Agnostic methods/1. Model-agnostic methods.md",
     "Other/journal club",
     "Other",
     "MsC/Diary/02",

@@ -15,7 +15,7 @@ df = pd.DataFrame(my_array)
 
 Zero filled dataset
 ```
-df = pd.DataFrame(0, index=np.arange(rows), columns=cols)
+df = pd.DataFrame(0, index=range(n_rows), columns=cols)
 ```
 
 Empty filled dataset
@@ -24,4 +24,15 @@ df = pd.DataFrame(
 np.empty((n_rows, len(cols))),
 columns=cols  
 )
+```
+
+If you already know all the values in a column
+```
+import pandas as pd
+
+values = ["ROI_1", "ROI_2", "ROI_3"]
+
+df = pd.DataFrame({
+    "roi_name": values
+})
 ```
