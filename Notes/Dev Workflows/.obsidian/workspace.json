@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LUNARC/Virtual desktop.md",
+                "file": "Bash/Scripts/Loops.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Virtual desktop"
+              "title": "Loops"
             }
           }
         ]
@@ -172,9 +172,12 @@
   },
   "active": "b04e4c47da2ac57a",
   "lastOpenFiles": [
+    "LUNARC/Interactive mode.md",
+    "Bash/Scripts/Loops.md",
+    "Bash/Scripts/Assigning variables.md",
     "LUNARC/Logging in.md",
-    "LUNARC/Virtual desktop.md",
     "LUNARC/2. Transferring files.md",
+    "LUNARC/Virtual desktop.md",
     "Groovy/Iterate.md",
     "Groovy/If else.md",
     "Groovy/Data structures/Get.md",
@@ -182,7 +185,6 @@
     "Groovy/Data structures",
     "Bash/tar.gz installation.md",
     "LUNARC/1. Overview.md",
-    "LUNARC/Interactive mode.md",
     "Groovy/Functions.md",
     "Groovy/File paths.md",
     "Groovy",
@@ -199,8 +201,6 @@
     "LUNARC/Open Shell environment.md",
     "Bash/1. Commands.md",
     "LUNARC/Submitting jobs/Job dependencies.md",
-    "Bash/Make git WSL use Windows Git credentials.md",
-    "Bash/Add $PATH.md",
     "Neovim/Setup/Custom functions",
     "Pasted image 20260123010209.png",
     "Pasted image 20260123004253.png",
