@@ -13,6 +13,15 @@ Number: 2
 ...  
 Number: 5
 ```
+****
+
+```
+num_cfolds=10
+for ((i=0; i<num_cfolds; i++))
+do
+    echo "$i"
+done
+```
 
 ****
 
