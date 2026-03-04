@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MsC/Diary/02/02-28.md",
+                "file": "MsC/Diary/03/03-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-28"
+              "title": "03-03"
             }
           }
         ]
@@ -183,8 +183,9 @@
   "active": "dbc13e85c2b76d12",
   "lastOpenFiles": [
     "MsC/Diary/02/02-27.md",
-    "MsC/Diary/02/02-28.md",
-    "Pasted image 20260228152703.png",
+    "MsC/Diary/03/03-03.md",
+    "MsC/Diary/03",
+    "MsC/Diary/02/Untitled.md",
     "Pasted image 20260227161445.png",
     "MsC/Diary/02/02-26.md",
     "MsC/Research/(Multiplex) Foundation models.md",
@@ -202,6 +203,7 @@
     "Pasted image 20260220140113.png",
     "Untitled.md",
     "Pasted image 20260220102919.png",
+    "Pasted image 20260220102751.png",
     "MsC/Diary/02/02-19.md",
     "MsC/Diary/TODO.md",
     "MsC/Diary/02/02-17.md",
@@ -217,7 +219,6 @@
     "Modelling/Machine Learning/Models/Nonlinear transformations/Support vector models/Support vector regression.md",
     "Modelling/Machine Learning/Models/Nonliner models/DecisionTree.md",
     "Modelling/Machine Learning/Models/Nonlinear transformations/Support vector models/SVM.md",
-    "Courses/Data-driven health/Essential notes.md",
     "Other/journal club",
     "Other",
     "MsC/Diary/02",
@@ -226,7 +227,6 @@
     "MsC/Workshop/Writing",
     "MsC/Workshop/Researching",
     "MsC/Workshop",
-    "MsC/Research/Papers",
-    "MsC/Research/Papers/ViT survey"
+    "MsC/Research/Papers"
   ]
 }

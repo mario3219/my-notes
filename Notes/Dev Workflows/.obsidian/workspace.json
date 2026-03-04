@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LUNARC/Submitting jobs/2. Bash commands.md",
+                "file": "Bash/Scripts/Loops.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Bash commands"
+              "title": "Loops"
             }
           }
         ]
@@ -172,26 +172,25 @@
   },
   "active": "b04e4c47da2ac57a",
   "lastOpenFiles": [
-    "LUNARC/Submitting jobs/Script commands.md",
-    "LUNARC/1. Overview.md",
+    "LUNARC/Interactive mode.md",
+    "Bash/Scripts/Loops.md",
+    "Bash/Scripts/Assigning variables.md",
     "LUNARC/Logging in.md",
-    "LUNARC/Submitting jobs/Job dependencies.md",
-    "LUNARC/Submitting jobs/2. Bash commands.md",
     "LUNARC/2. Transferring files.md",
-    "Groovy/Strings/Split.md",
     "LUNARC/Virtual desktop.md",
-    "Groovy/Strings",
     "Groovy/Iterate.md",
     "Groovy/If else.md",
     "Groovy/Data structures/Get.md",
     "Groovy/Data structures/Create.md",
     "Groovy/Data structures",
     "Bash/tar.gz installation.md",
-    "LUNARC/Interactive mode.md",
+    "LUNARC/1. Overview.md",
     "Groovy/Functions.md",
     "Groovy/File paths.md",
     "Groovy",
+    "LUNARC/Submitting jobs/2. Bash commands.md",
     "LUNARC/Submitting jobs/Basic job.md",
+    "LUNARC/Submitting jobs/Script commands.md",
     "Bash/Scripts/Long commands.md",
     "Bash/Scripts/If else statements.md",
     "Bash/Scripts/Arguments.md",
@@ -201,7 +200,7 @@
     "LUNARC/Two-factor authentication.md",
     "LUNARC/Open Shell environment.md",
     "Bash/1. Commands.md",
-    "Bash/Make git WSL use Windows Git credentials.md",
+    "LUNARC/Submitting jobs/Job dependencies.md",
     "Neovim/Setup/Custom functions",
     "Pasted image 20260123010209.png",
     "Pasted image 20260123004253.png",
@@ -210,6 +209,7 @@
     "Neovim/Setup",
     "Bash",
     "Neovim/Keybinds",
-    "Neovim/old"
+    "Neovim/old",
+    "Neovim/old/Configure/Plugins"
   ]
 }
