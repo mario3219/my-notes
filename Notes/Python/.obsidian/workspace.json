@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Guide/Write.md",
+                "file": "Libraries/skimage/read tiff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Write"
+              "title": "read tiff"
             }
           }
         ]
@@ -171,17 +171,18 @@
   },
   "active": "a6d32b9aedf01096",
   "lastOpenFiles": [
-    "Python Guide/Show images.md",
+    "Libraries/matplotlib.pyplot/subplots.md",
+    "Libraries/matplotlib.pyplot/savefig.md",
+    "Libraries/matplotlib.pyplot/open and show plots.md",
     "Python Guide/Write.md",
+    "Python Guide/Show images.md",
     "Python Guide/Error handling/try and catch.md",
     "Libraries/numpy/Data/Get/unique.md",
     "Python Guide/Lists/Get unique.md",
     "Libraries/os/makedir.md",
     "Libraries/os/If path exists.md",
     "Libraries/matplotlib.pyplot/imshow.md",
-    "Libraries/matplotlib.pyplot/subplots.md",
     "Libraries/matplotlib.pyplot/close.md",
-    "Libraries/matplotlib.pyplot/savefig.md",
     "Python Guide/Lists/Ranges.md",
     "Libraries/Pandas/Data Processing/Get/1. Important notes.md",
     "Libraries/Pandas/Data Processing/Get/Unique.md",
@@ -199,7 +200,6 @@
     "Libraries/Pandas/Data Processing/Get/Get all",
     "Libraries/Pandas/Data Processing/Boolean/Check if column contains.md",
     "Libraries/Pandas/Data Processing/Boolean",
-    "Libraries/Pandas/Data Processing/Load&Save csv.md",
     "Libraries/Pandas/Data Processing/Check",
     "Libraries/Pandas/Data Processing/Series",
     "Libraries/Pandas/Data Processing/Remove",
