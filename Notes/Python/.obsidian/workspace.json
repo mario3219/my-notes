@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libraries/skimage/read tiff.md",
+                "file": "Python Guide/Error handling/try and catch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "read tiff"
+              "title": "try and catch"
             }
           }
         ]
@@ -172,7 +172,6 @@
   "active": "a6d32b9aedf01096",
   "lastOpenFiles": [
     "Libraries/matplotlib.pyplot/subplots.md",
-    "Libraries/matplotlib.pyplot/savefig.md",
     "Libraries/matplotlib.pyplot/open and show plots.md",
     "Python Guide/Write.md",
     "Python Guide/Show images.md",
@@ -183,6 +182,7 @@
     "Libraries/os/If path exists.md",
     "Libraries/matplotlib.pyplot/imshow.md",
     "Libraries/matplotlib.pyplot/close.md",
+    "Libraries/matplotlib.pyplot/savefig.md",
     "Python Guide/Lists/Ranges.md",
     "Libraries/Pandas/Data Processing/Get/1. Important notes.md",
     "Libraries/Pandas/Data Processing/Get/Unique.md",

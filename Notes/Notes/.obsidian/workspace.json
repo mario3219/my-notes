@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f9272c631816579a",
@@ -182,10 +183,12 @@
   },
   "active": "ca06528c052538bb",
   "lastOpenFiles": [
+    "Untitled.md",
+    "MsC/Diary/03/03-05.md",
+    "Pasted image 20260305133209.png",
+    "MsC/Diary/03/03-04.md",
     "Pasted image 20260305112359.png",
     "Pasted image 20260305111855.png",
-    "MsC/Diary/03/03-04.md",
-    "MsC/Diary/03/03-05.md",
     "MsC/Reports/Report/draft.md",
     "MsC/Coding/4. Model script for Image2Count.md",
     "MsC/Reports/Report",
@@ -210,9 +213,6 @@
     "Pasted image 20260220162414.png",
     "Pasted image 20260220141208.png",
     "Pasted image 20260220141026.png",
-    "Pasted image 20260220140554.png",
-    "Pasted image 20260220140113.png",
-    "Untitled.md",
     "MsC/Diary/02/02-19.md",
     "MsC/Diary/02/02-17.md",
     "MsC/Diary/02/02-16.md",

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LUNARC/Submitting jobs/2. Bash commands.md",
+                "file": "Neovim/Normal mode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Bash commands"
+              "title": "Normal mode"
             }
           }
         ],
@@ -187,6 +187,7 @@
   },
   "active": "a8bccce1ec1fc740",
   "lastOpenFiles": [
+    "Neovim/Keybinds.md",
     "LUNARC/Interactive mode.md",
     "LUNARC/Submitting jobs/2. Bash commands.md",
     "Bash/Scripts/Loops.md",
@@ -216,7 +217,6 @@
     "LUNARC/Submitting jobs/1. Overview.md",
     "LUNARC/Two-factor authentication.md",
     "LUNARC/Open Shell environment.md",
-    "Bash/1. Commands.md",
     "Neovim/Setup/Custom functions",
     "Pasted image 20260123010209.png",
     "Pasted image 20260123004253.png",
