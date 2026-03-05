@@ -1,3 +1,0 @@
-```
-cols = df.columns
-```

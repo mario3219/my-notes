@@ -1,6 +1,4 @@
 
-<u>PREFERABLY USE ILOC</u>
-
 By index
 ```
 df.iloc[:, i]
@@ -23,13 +21,12 @@ label_idx = df.columns.get_loc('column')
 counts.iloc[idx,label_idx]
 ```
 
-Basic drop and get
+Last element
 ```
-X = df.drop(columns=['OVERALL_DIAGNOSIS'])
-y = df['OVERALL_DIAGNOSIS']
+df["col"].iloc[-1]
 ```
 
-If column contains substring
+Get column names
 ```
-col_names = df[[col for col in col_names if slide_name in col]]
+names = df.columns
 ```

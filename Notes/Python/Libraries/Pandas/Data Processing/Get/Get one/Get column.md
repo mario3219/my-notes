@@ -1,0 +1,3 @@
+```
+images = df["Images"]
+```

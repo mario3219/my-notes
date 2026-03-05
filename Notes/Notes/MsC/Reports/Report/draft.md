@@ -1,0 +1,20 @@
+**Introduction**
+The tumor immune microenvironment (TIME) has been shown to hold information that allows prognostic predictions for treatment outcome [2][3][4], and new technologies has shown to adress issues regarding solutions to facilitate usage of spatial omics in clinical settings, with profiling platforms such as GeoMx and Visium providing services for adoption. However, they still suffer from high costs, time consumption and complexity, which prevents their adoption into routine clinical usage [5][6]. In contrast, histopathology images are more cost-effective and are routinely used in clinical practice, and has launched a desired demand for deep learning approaches to the spatial proteomics field. At the Department of Immunotechnology, an in-house model Image2Count (I2C) has been developed to address these issues and has been shown to achieve competitive results to present lab-driven direct measurement technologies, by instead predicting expression counts in segmented cells. The architecture choice enables training on few bulk spatial-molecular Regions of interest (ROI) samples and allows downstream single cell analysis of predicted counts using standardized workflows. The approach has been shown to be able to produce TIME characteristics for which can be lacking in spatial omics data. To this end a ResNet [7] model with SimCLR [8] has been used to learn visual representations of cells, which work as embedding functions as nodes in a cell graph on which GNN aggregates neighbourhood information to predict cell expressions. For this project, other foundation models was explored to learn these visual representations, and the performance was tested using data on large B-cell lymphoma.
+*(References in goal document)*
+
+*(Perhaps include from the manuscript the examples of past work using these AI solutions)*
+
+Different spatial omics platforms handle cell expressions differently, some platforms providing single cell expressions and others in bulk in ROIs. The benefit of the model proposed in this project will lead to the ability to deconvolute bulk ROIs to form single cell expressions, simplifying the "mechanical" steps required in forming single expression data.
+
+The benefit of the I2C workflow will also in turn result in the ability to quickly form results of expression data bypassing large equipment needs.
+
+The data requirements of forming the image representations is large, with other models in research trained on millions *(source)* in their work, by incorporating foundation models for visual representations, the data requirement for further downstream tasks will be greatly reduced.
+
+The inquired changes from this project is replacing the ResNet with SimCLR prediction head for other trained foundation models for visual representations. These models will form embeddings as graph nodes for a GNN to aggregate nieghborhood information, additionally the significane of aggregating neighborhood information was tested by using a multi-layer FFW network with residual connections, to ignore spatial context.
+
+*(foundation model descriptions)*
+Deepcell is a pairwise forming embedding model, consisting of two parts, a transformer and a CNN. The visual features are formed in the CNN and the semantic meaning behind channel names used in the images are pre-formed and stored, and extracted for relevant channel names. These marker name embeddings together with visual embeddings are passed through a transformer block,
+
+The foundation models themselves come with benefits. Prior work used ResNet model to deconvolute cell cutouts of images. These images were raw cutouts of specific sizes, which could incorporate neighboring cells. Significance of spatial context could therefore be correlated in this manner. Deepcell aggregates spatial context using binary masks, separating cells of interests and neighbors. Additionally, attention masks are given to describe these relations. The neighborhood context is more explicitly separated in this context.
+
+For performance metrics *(compare with cosmx chapter)*
