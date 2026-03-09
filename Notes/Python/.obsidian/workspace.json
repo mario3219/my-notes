@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Guide/Strings/endswith and startswith.md",
+                "file": "Libraries/PyTorch/Tensors/to numpy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "endswith and startswith"
+              "title": "to numpy"
             }
           }
         ]
@@ -171,26 +171,22 @@
   },
   "active": "a6d32b9aedf01096",
   "lastOpenFiles": [
-    "Libraries/Pandas/Data Processing/Load&Save csv.md",
-    "Libraries/Pandas/Data Processing/Create dataset.md",
-    "Libraries/Pandas/Data Processing/Load excel.md",
+    "Python Guide/Read and write/json.md",
+    "Libraries/PyTorch/Tensors/to numpy.md",
+    "Libraries/PyTorch/Creating models/Save&Load/For pytorch.md",
+    "Python Guide/Dictionaries/Add/Simple add.md",
+    "Python Guide/Dictionaries/Add/Add with iteration.md",
+    "Python Guide/Dictionaries/Iterate.md",
     "Python Guide/Define main structure.md",
-    "Libraries/os/Create paths.md",
-    "Python Guide/Strings/Split strings/split.md",
-    "Libraries/os/Iterate contents.md",
-    "Python Guide/Lists/Sort.md",
-    "Python Guide/Lists/Add/Add.md",
-    "Special cases/Working in batches.md",
-    "Libraries/matplotlib.pyplot/subplots.md",
-    "Python Guide/Error handling/try and catch.md",
-    "Libraries/tqdm.md",
-    "Python Guide/Arguments on runtime.md",
-    "Python Guide/Error handling/raise.md",
-    "Libraries/numpy/Data/Check/Check if nans.md",
+    "Python Guide/Read and write/Write, read text file.md",
     "Libraries/numpy/Data/Create.md",
+    "Python Guide/Read and write",
+    "Python Guide/Error handling/try and catch.md",
+    "Libraries/os/Iterate contents.md",
+    "Libraries/numpy/Data/Check/Check if nans.md",
     "Libraries/numpy/Data/Check",
+    "Libraries/matplotlib.pyplot/subplots.md",
     "Libraries/matplotlib.pyplot/open and show plots.md",
-    "Python Guide/Write.md",
     "Python Guide/Show images.md",
     "Libraries/numpy/Data/Get/unique.md",
     "Python Guide/Lists/Get unique.md",
@@ -198,6 +194,11 @@
     "Libraries/os/If path exists.md",
     "Libraries/matplotlib.pyplot/imshow.md",
     "Libraries/matplotlib.pyplot/close.md",
+    "Libraries/matplotlib.pyplot/savefig.md",
+    "Python Guide/Lists/Ranges.md",
+    "Libraries/Pandas/Data Processing/Get/1. Important notes.md",
+    "Libraries/Pandas/Data Processing/Get/Unique.md",
+    "Libraries/Pandas/Data Processing/Get/Get dimensions.md",
     "Libraries/Pandas/Data Processing/Get/Get one",
     "Libraries/Pandas/Data Processing/Get/Get all",
     "Libraries/Pandas/Data Processing/Boolean",
@@ -205,7 +206,6 @@
     "Libraries/Pandas/Data Processing/Series",
     "Libraries/Pandas/Data Processing/Remove",
     "Libraries/Pandas/Data Processing/Get",
-    "Libraries/Pandas/Data Processing/Edit",
-    "Libraries/Pandas/Data Processing/Add"
+    "Libraries/Pandas/Data Processing/Edit"
   ]
 }

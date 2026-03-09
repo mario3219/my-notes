@@ -1,3 +1,7 @@
+```
+The COSMOS system has 256 GB of memory installed on a normal compute node. To allow memory for the operating system, only 254000 MB are available for jobs and the default memory request per core is 5300 MB of memory (48 cores per node).
+```
+
 Things to put into .sh file and their effects
 
 | Command                                  | Output                                                              |
@@ -10,6 +14,7 @@ Things to put into .sh file and their effects
 | `#SBATCH --mail-user=jonte@institute.se` | Specify notification mail                                           |
 | `#SBATCH --mail-type=END`                | What type of notification                                           |
 | `BEGIN,END,FAIL,REQUEUE,ALL`             | What types exist                                                    |
+| `#SBATCH --mem=256G`                     | RAM requirement                                                     |
 
 **Project allocation**
 If member of more than one project, need to specify which project to charge
@@ -18,14 +23,9 @@ If member of more than one project, need to specify which project to charge
 #SBATCH -A lu2025-x-xxx
 ```
 
-**GPU and CPU allocation**
+**GPUs**
 
-NVIDIA A100 with Intel CPU
-```
-#SBATCH -p gpua100i
-#SBATCH -N 1
-#SBATCH --ntasks-per-node=16
-#SBATCH --gres=gpu:1
-#SBATCH --mem-per-cpu=11800
-```
-Using 1 node, 16 tasks per node, 1 gpu, 11800MB per CPU core.
+| Command               | Output                     |
+| --------------------- | -------------------------- |
+| `#SBATCH -p gpua100`  | NVIDIA A100 GPU with AMD   |
+| `#SBATCH -p gpua100i` | NVIDIA A100 GPU with Intel |
