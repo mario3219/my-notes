@@ -1,5 +1,5 @@
 ```
-interactive -N 1 --ntasks-per-node=4 -t 60 -A lu-test
+interactive -N 1 --ntasks-per-node=4 -t 60 -A <proj>
 ```
 lu-test in our case is:
 ```

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MsC/Diary/03/03-09.md",
+                "file": "Other/journal club/Journal club 2/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-09"
+              "title": "Notes"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f9272c631816579a",
@@ -182,6 +183,7 @@
   },
   "active": "ca06528c052538bb",
   "lastOpenFiles": [
+    "MsC/Diary/03/03-09.md",
     "MsC/Diary/03/03-10.md",
     "MsC/Diary/03/03-11.md",
     "Other/journal club/Journal club 2/Notes.md",
@@ -190,7 +192,6 @@
     "Other/journal club/Journal club 1",
     "Other/journal club/Journal club 1/Concept words.md",
     "MsC/Research/(Multiplex) Foundation models.md",
-    "MsC/Diary/03/03-09.md",
     "MsC/Diary/03/03-05.md",
     "MsC/Diary/03/03-07.md",
     "MsC/Diary/03/03-08.md",
