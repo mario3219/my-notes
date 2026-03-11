@@ -23,3 +23,7 @@ String list
     parser.add_argument("--channel_names",nargs='+',type=str, default="")
 ```
 
+Boolean
+```
+    parser.add_argument("--visualize_expression", action="store_true", default=False)
+```

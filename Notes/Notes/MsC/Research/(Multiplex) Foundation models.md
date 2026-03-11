@@ -21,3 +21,6 @@ also requires cv2 package
 and xformers
 Model is trained on 900k H&E and 200k non H&E
 Can remove all cellvit libraries, its safe
+
+Pathoduet
+[PathoDuet: Foundation models for pathological slide analysis of H&E and IHC stains - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1361841524002147)

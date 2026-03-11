@@ -21,3 +21,8 @@ Switch to indexes in the original dataframe
 mask = df.iloc[:, col_indices].isna().all(axis=1)
 idx = mask[mask].index
 ```
+
+Boolean if any
+```
+df.isna().any().any()
+```
