@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MsC/Diary/03/03-09.md",
+                "file": "Other/journal club/Journal club 2/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-09"
+              "title": "Notes"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f9272c631816579a",
@@ -182,10 +183,16 @@
   },
   "active": "ca06528c052538bb",
   "lastOpenFiles": [
+    "Other/journal club/Journal club 1/notes.md",
+    "Other/journal club/Journal club 2/Notes.md",
+    "Other/journal club/Journal club 2",
+    "Other/journal club/Journal club 1",
+    "Other/journal club/Journal club 1/Concept words.md",
+    "MsC/Research/(Multiplex) Foundation models.md",
+    "MsC/Diary/03/03-09.md",
     "MsC/Diary/03/03-05.md",
     "MsC/Diary/03/03-07.md",
     "MsC/Diary/03/03-08.md",
-    "MsC/Diary/03/03-09.md",
     "Pasted image 20260307114000.png",
     "Pasted image 20260306135015.png",
     "Untitled.md",
@@ -206,7 +213,6 @@
     "MsC/Diary/02/Untitled.md",
     "Pasted image 20260227161445.png",
     "MsC/Diary/02/02-26.md",
-    "MsC/Research/(Multiplex) Foundation models.md",
     "MsC/Diary/02/02-25.md",
     "MsC/Diary/02/02-24.md",
     "Modelling/Interpretability/Machine learning/Model-Agnostic methods/Global/H-statistic.md",
@@ -217,16 +223,11 @@
     "Pasted image 20260220162414.png",
     "MsC/Diary/02/02-19.md",
     "MsC/Diary/02/02-17.md",
-    "MsC/Diary/02/02-16.md",
-    "MsC/Diary/02/02-12.md",
-    "MsC/QuPath ROI cutout.md",
     "Other/journal club",
     "Other",
     "MsC/Diary/02",
     "MsC/Diary/01",
     "MsC/Coding",
-    "MsC/Workshop/Writing",
-    "MsC/Workshop/Researching",
-    "MsC/Workshop"
+    "MsC/Workshop/Writing"
   ]
 }
