@@ -6,6 +6,11 @@ df_filtered = df[df["label"].str.contains("cell")]
 counts = counts[counts['ROI'].isin(roi_labels)].reset_index(drop=True)
 ```
 
+Indexes are preserved from the old
+```
+cell_positions.index
+```
+
 Absolute equals, specific column
 ```
 df_filtered = df[df.iloc[:, 2] == some_value]
