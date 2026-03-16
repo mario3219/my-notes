@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libraries/os/makedir.md",
+                "file": "Libraries/os/Move files.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "makedir"
+              "title": "Move files"
             }
           }
         ]
@@ -171,6 +171,17 @@
   },
   "active": "a6d32b9aedf01096",
   "lastOpenFiles": [
+    "Python Guide/Arguments on runtime.md",
+    "Python Guide/Random/Random idx from range.md",
+    "Python Guide/Lists/Pop.md",
+    "Python Guide/Random",
+    "Python Guide/Untitled.md",
+    "Python Guide/Error handling/Assert.md",
+    "Libraries/matplotlib.pyplot/subplots.md",
+    "Libraries/Pandas/Data Processing/Get/Get dimensions.md",
+    "Libraries/matplotlib.pyplot/savefig.md",
+    "Libraries/os/makedir.md",
+    "Libraries/os/If path exists.md",
     "Libraries/os/Get parent.md",
     "Python Guide/Lists/Get unique.md",
     "Python Guide/Lists/Sort.md",
@@ -187,16 +198,6 @@
     "Libraries/Pandas/Data Processing/Get/Get all/Rows where column has a specific value.md",
     "Libraries/Pandas/Data Processing/Add/Append rows & columns.md",
     "Libraries/Pandas/Data Processing/Add/Add new column or columns.md",
-    "Libraries/Pandas/Data Processing/Edit/Rename columns.md",
-    "Libraries/Pandas/Data Processing/Get/Get dimensions.md",
-    "Libraries/Pandas/Data Processing/Iterate.md",
-    "Libraries/Pandas/Data Processing/Create dataset.md",
-    "Libraries/Pandas/Data Processing/Combine dataframes.md",
-    "Libraries/Pandas/Data Processing/Series/Create series.md",
-    "Libraries/Pandas/Data Processing/Get/Get one/Get column.md",
-    "Libraries/os/Create paths.md",
-    "Python Guide/Lists/Add/Add.md",
-    "Python Guide/Arguments on runtime.md",
     "Python Guide/Read and write",
     "Libraries/numpy/Data/Check",
     "Libraries/Pandas/Data Processing/Get/Get one",
@@ -205,7 +206,6 @@
     "Libraries/Pandas/Data Processing/Check",
     "Libraries/Pandas/Data Processing/Series",
     "Libraries/Pandas/Data Processing/Remove",
-    "Libraries/Pandas/Data Processing/Get",
-    "Libraries/Pandas/Data Processing/Edit"
+    "Libraries/Pandas/Data Processing/Get"
   ]
 }

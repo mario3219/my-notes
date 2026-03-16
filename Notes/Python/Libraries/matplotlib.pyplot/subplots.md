@@ -20,6 +20,7 @@ axs[1, 1].scatter(x, y)
 plt.close(fig)
 ```
 
+Layout
 ```
 ax[0,0] ax[0,1]  
 ax[1,0] ax[1,1]
