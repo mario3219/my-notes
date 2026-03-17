@@ -5,6 +5,13 @@ for row in df.itertuples(index=False):
     print(row[0], row[1])
 ```
 
+```
+for idx, row in df.iterrows():
+	print(idx)
+	print(row)
+```
+row is a pandas series
+
 Loop selected columns:
 ```
 for row in df[["slide", "roi_id", "count"]].itertuples(index=False):

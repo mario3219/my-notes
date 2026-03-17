@@ -11,14 +11,12 @@
             "id": "b04e4c47da2ac57a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "LUNARC/Interactive mode.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20260123001420.png"
               },
-              "icon": "lucide-file",
-              "title": "Interactive mode"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260123001420"
             }
           }
         ]
@@ -172,13 +170,13 @@
   },
   "active": "b04e4c47da2ac57a",
   "lastOpenFiles": [
+    "LUNARC/Interactive mode.md",
+    "LUNARC/Logging in.md",
     "Bash/1. Commands.md",
     "Bash/Add $PATH.md",
     "LUNARC/2. Transferring files.md",
     "Bash/Scripts/Arguments.md",
     "Bash/Replace subnames to new subname.md",
-    "LUNARC/Interactive mode.md",
-    "LUNARC/Logging in.md",
     "Bash/Scripts/Loops.md",
     "LUNARC/Submitting jobs/Script commands.md",
     "LUNARC/1. Overview.md",

@@ -1,8 +1,14 @@
-Remove the large file from being tracked
+Remove the large file from being tracked in recent commit
 ```
 git rm --cached <file_path>
 git commit --amend
 git push
+```
+
+If it is present in past commit history
+```
+git filter-repo --path <file_path>
+git push origin main --force
 ```
 
 ****

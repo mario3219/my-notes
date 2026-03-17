@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Branches/1. Commands.md",
+                "file": "Conflicts/Set upstream.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Commands"
+              "title": "Set upstream"
             }
           }
         ],
@@ -214,17 +214,19 @@
   },
   "active": "b375a07dac8e690f",
   "lastOpenFiles": [
+    "Conflicts/Errors/error GH001 Large files detected.md",
+    "Conflicts/Set upstream.md",
+    "Untitled.md",
+    "Branches/1. Commands.md",
     "Commits/Remove commit from history.md",
     "Branches/Push branch to remote.md",
     "Branches/Create branch from commit.md",
     "Branches/Force update to match remote.md",
     "Branches/Merge.md",
-    "Branches/1. Commands.md",
     "Other/Ignore/Ignore files ending with.md",
     "Other/Ignore/Ignore contents in a folder.md",
     "Other/Tracking/Remove file from history.md",
     "Other/Ignore",
-    "Conflicts/Errors/error GH001 Large files detected.md",
     "Other/Tracking/Reset tracked files.md",
     "Other/Ignore/gitignore.md",
     "Other/Tracking",
