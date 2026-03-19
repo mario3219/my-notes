@@ -11,12 +11,14 @@
             "id": "b04e4c47da2ac57a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20260123001420.png"
+                "file": "LUNARC/Interactive mode.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260123001420"
+              "icon": "lucide-file",
+              "title": "Interactive mode"
             }
           }
         ]
@@ -170,11 +172,12 @@
   },
   "active": "b04e4c47da2ac57a",
   "lastOpenFiles": [
+    "LUNARC/2. Transferring files.md",
+    "Pasted image 20260123001420.png",
     "LUNARC/Interactive mode.md",
     "LUNARC/Logging in.md",
     "Bash/1. Commands.md",
     "Bash/Add $PATH.md",
-    "LUNARC/2. Transferring files.md",
     "Bash/Scripts/Arguments.md",
     "Bash/Replace subnames to new subname.md",
     "Bash/Scripts/Loops.md",
@@ -196,14 +199,12 @@
     "Groovy/Iterate.md",
     "Groovy/If else.md",
     "Groovy/Data structures/Get.md",
-    "Groovy/Data structures/Create.md",
     "Groovy/Data structures",
     "Groovy",
     "Bash/Scripts",
     "Neovim/Setup/Custom functions",
     "Pasted image 20260123010209.png",
     "Pasted image 20260123004253.png",
-    "Pasted image 20260123001420.png",
     "Neovim/Setup/Errors",
     "Neovim/Setup",
     "Bash",
