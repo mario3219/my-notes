@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bash/1. Commands.md",
+                "file": "LUNARC/2. Transferring files.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Commands"
+              "title": "2. Transferring files"
             }
           }
         ]
@@ -172,11 +172,11 @@
   },
   "active": "b04e4c47da2ac57a",
   "lastOpenFiles": [
+    "Bash/1. Commands.md",
     "LUNARC/2. Transferring files.md",
     "LUNARC/Logging in.md",
     "Pasted image 20260123001420.png",
     "LUNARC/Interactive mode.md",
-    "Bash/1. Commands.md",
     "Bash/Add $PATH.md",
     "Bash/Scripts/Arguments.md",
     "Bash/Replace subnames to new subname.md",

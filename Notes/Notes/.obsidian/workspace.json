@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MsC/Reports/Report/Notes.md",
+                "file": "MsC/Reports/Report/1 Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "1 Introduction"
             }
           }
         ]
@@ -182,9 +182,13 @@
   },
   "active": "33f838a2625db8ea",
   "lastOpenFiles": [
-    "MsC/Reports/Report/draft.md",
     "MsC/Reports/Report/Notes.md",
+    "MsC/Reports/Report/1 Introduction.md",
     "MsC/Reports/Project plan questions.md",
+    "MsC/Research/(Multiplex) Foundation models.md",
+    "MsC/Reports/Report/draft.md",
+    "MsC/QuPath ROI cutout.md",
+    "MsC/Research/(H&E) Foundation models.md",
     "Z_Images/Pasted image 20260317124346.png",
     "Z_Images/Pasted image 20260316125956.png",
     "Z_Images/Pasted image 20260310144258.png",
@@ -207,7 +211,6 @@
     "Other/journal club/Journal club 2",
     "Other/journal club/Journal club 1",
     "Other/journal club/Journal club 1/Concept words.md",
-    "MsC/Research/(Multiplex) Foundation models.md",
     "MsC/Diary/03/03-05.md",
     "MsC/Diary/03/03-07.md",
     "MsC/Diary/03/03-08.md",
@@ -218,10 +221,7 @@
     "MsC/Coding/3. Code planning.md",
     "MsC/Diary/03/03-03.md",
     "MsC/Diary/TODO.md",
-    "MsC/Diary/02/02-28.md",
-    "MsC/Diary/02/02-27.md",
     "MsC/Diary/03",
-    "MsC/Diary/02/Untitled.md",
     "Other/journal club",
     "Other",
     "MsC/Diary/02",
