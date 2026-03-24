@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Text links.md",
+                "file": "TexWorks/Word count.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Text links"
+              "title": "Word count"
             }
           }
         ]
@@ -171,21 +171,22 @@
   },
   "active": "f0ee0ef987010b2b",
   "lastOpenFiles": [
-    "Inserts/Vertical space.md",
-    "Inserts/Horizontal line.md",
     "TexWorks/Compile script.md",
     "TexWorks/Code.md",
+    "Inserts/Math.md",
+    "TexWorks/Word count.md",
     "Writing/Sections.md",
+    "Writing/Text links.md",
+    "Inserts/Vertical space.md",
+    "Inserts/Horizontal line.md",
     "Inserts/Document content/Bibliography.md",
     "Coding/Load .tex.md",
     "Inserts/Document content/Title.md",
     "Inserts/Figures/Number lists.md",
     "Inserts/Figures/Bullet lists.md",
     "Inserts/Symbols.md",
-    "Inserts/Math.md",
     "Inserts/Figures/Images/Paired images.md",
     "Writing/URL.md",
-    "Writing/Text links.md",
     "Inserts/Document content/Untitled.md",
     "Inserts/Random text.md",
     "Writing/Mix single- and double-column.md",
@@ -201,7 +202,6 @@
     "Inserts/Figures/Tables.md",
     "Inserts/Document content",
     "Inserts/Figures",
-    "Writing/Change column geometry.md",
     "Pasted image 20260114150751.png",
     "Pasted image 20260114150721.png",
     "Pasted image 20260114150643.png",

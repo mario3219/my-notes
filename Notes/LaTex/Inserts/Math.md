@@ -6,7 +6,7 @@
 
 **Math inside text**
 ```
-(\ insert math here \)
+\( insert math here \)
 ```
 
 **Labelled equations**
