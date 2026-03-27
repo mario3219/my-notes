@@ -23,6 +23,7 @@
 | G          | Jump to end of file       |
 | $          | Jump to end of line       |
 | gm         | Jump to middle of line    |
+| gd         | Jump to definition        |
 
 
 **Visuals**
