@@ -22,5 +22,9 @@ done
 echo "file=$file"
 echo "mode=$mode"
 echo "epochs=$epochs"
+```
 
+Usage
+```
+./script.sh file=data.csv mode=train epochs=50
 ```
