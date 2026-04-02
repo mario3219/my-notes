@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "65a87e6a67276757",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MsC/Diary/03/03-25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03-25"
-            }
-          },
-          {
             "id": "38a3c6bc95f3ffaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MsC/Diary/03/03-31.md",
+                "file": "MsC/Diary/03/04-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-31"
+              "title": "04-02"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f9272c631816579a",
@@ -198,6 +182,12 @@
   },
   "active": "38a3c6bc95f3ffaf",
   "lastOpenFiles": [
+    "MsC/Diary/03/04-01.md",
+    "MsC/Diary/03/03-31.md",
+    "MsC/Diary/03/04-02.md",
+    "MsC/Diary/03/03-27.md",
+    "MsC/Diary/03/03-30.md",
+    "MsC/Diary/03/03-25.md",
     "Pasted image 20260331142316.png",
     "Pasted image 20260331134627.png",
     "Pasted image 20260331120509.png",
@@ -205,17 +195,12 @@
     "Pasted image 20260331114048.png",
     "Pasted image 20260331103628.png",
     "Pasted image 20260331103326.png",
-    "MsC/Diary/03/03-30.md",
-    "MsC/Diary/03/03-31.md",
     "Pasted image 20260330162555.png",
     "Pasted image 20260330162102.png",
-    "MsC/Diary/03/03-25.md",
     "MsC/Diary/03/03-26.md",
-    "MsC/Diary/03/03-27.md",
     "MsC/Diary/03/03-19.md",
     "MsC/Diary/03/03-24.md",
     "Pasted image 20260327161629.png",
-    "Pasted image 20260327161620.png",
     "MsC/Reports/Report/Notes.md",
     "MsC/Reports/Report/Questions.md",
     "MsC/Reports/Report/1 Introduction.md",
@@ -235,7 +220,6 @@
     "Other/journal club/Journal club 2",
     "Other/journal club/Journal club 1",
     "Other/journal club/Journal club 1/Concept words.md",
-    "MsC/Diary/03/03-05.md",
     "MsC/Reports/Report",
     "MsC/Diary/03",
     "Other/journal club",
