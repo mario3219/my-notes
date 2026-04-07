@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bash/1. Commands.md",
+                "file": "LUNARC/Interactive mode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Commands"
+              "title": "Interactive mode"
             }
           }
         ]
@@ -172,6 +172,10 @@
   },
   "active": "b04e4c47da2ac57a",
   "lastOpenFiles": [
+    "LUNARC/2. Transferring files.md",
+    "LUNARC/Logging in.md",
+    "LUNARC/Interactive mode.md",
+    "Bash/1. Commands.md",
     "Neovim/Normal mode.md",
     "Bash/Scripts/Custom scripts/Remove ending of all files in path.md",
     "Bash/Replace subnames to new subname.md",
@@ -181,12 +185,8 @@
     "Bash/Make git WSL use Windows Git credentials.md",
     "Bash/tar.gz installation.md",
     "Bash/Add $PATH.md",
-    "LUNARC/Interactive mode.md",
-    "LUNARC/2. Transferring files.md",
-    "LUNARC/Logging in.md",
     "LUNARC/Submitting jobs/2. Bash commands.md",
     "Pasted image 20260331233654.png",
-    "Bash/1. Commands.md",
     "Bash/Scripts/If else statements.md",
     "Bash/Scripts/Assigning variables.md",
     "Bash/Scripts/Loops.md",

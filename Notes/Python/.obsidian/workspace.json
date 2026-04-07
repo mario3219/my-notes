@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scripts/File name helper.md",
+                "file": "Libraries/PyTorch/Creating models/Save&Load/For pytorch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "File name helper"
+              "title": "For pytorch"
             }
           }
         ],
@@ -186,8 +186,8 @@
   },
   "active": "576436e6444ef420",
   "lastOpenFiles": [
-    "Scripts/Remove subnames in file names.md",
     "Scripts/File name helper.md",
+    "Scripts/Remove subnames in file names.md",
     "Libraries/os/Move files.md",
     "Python Guide/Arguments on runtime.md",
     "Special cases/Working in batches.md",
