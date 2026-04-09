@@ -18,6 +18,14 @@ if __name__ == '__main__':
 	main(**args)
 ```
 
+If you want to skip `parse_args()` function
+```
+parser = argparse.ArgumentParser(description="example")
+parser.add_argument("--processed_dir",type=str)
+args = vars(parser.parse_args())
+main(**args)
+```
+
 String list
 ```
     parser.add_argument("--channel_names",nargs='+',type=str, default="")

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LUNARC/Interactive mode.md",
+                "file": "Bash/1. Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interactive mode"
+              "title": "1. Commands"
             }
           }
         ]
@@ -172,11 +172,20 @@
   },
   "active": "b04e4c47da2ac57a",
   "lastOpenFiles": [
-    "LUNARC/2. Transferring files.md",
-    "Neovim/Normal mode.md",
     "LUNARC/Interactive mode.md",
     "LUNARC/Logging in.md",
+    "LUNARC/2. Transferring files.md",
+    "LUNARC/Virtual desktop.md",
+    "LUNARC/Two-factor authentication.md",
+    "LUNARC/Open Shell environment.md",
+    "LUNARC/1. Overview.md",
+    "LUNARC/Submitting jobs/Script commands.md",
+    "LUNARC/Submitting jobs/Job dependencies.md",
+    "LUNARC/Submitting jobs/Basic job.md",
+    "LUNARC/Submitting jobs/2. Bash commands.md",
+    "LUNARC/Submitting jobs/1. Overview.md",
     "Bash/1. Commands.md",
+    "Neovim/Normal mode.md",
     "Bash/Scripts/Custom scripts/Remove ending of all files in path.md",
     "Bash/Replace subnames to new subname.md",
     "Bash/Scripts/Custom scripts",
@@ -185,21 +194,12 @@
     "Bash/Make git WSL use Windows Git credentials.md",
     "Bash/tar.gz installation.md",
     "Bash/Add $PATH.md",
-    "LUNARC/Submitting jobs/2. Bash commands.md",
     "Pasted image 20260331233654.png",
     "Bash/Scripts/If else statements.md",
     "Bash/Scripts/Assigning variables.md",
     "Bash/Scripts/Loops.md",
-    "LUNARC/1. Overview.md",
-    "LUNARC/Submitting jobs/Script commands.md",
-    "LUNARC/Submitting jobs/Job dependencies.md",
-    "LUNARC/Submitting jobs/Basic job.md",
-    "LUNARC/Submitting jobs/1. Overview.md",
     "Neovim/Keybinds.md",
     "Pasted image 20260123001420.png",
-    "LUNARC/Open Shell environment.md",
-    "LUNARC/Two-factor authentication.md",
-    "LUNARC/Virtual desktop.md",
     "Bash/Scripts/Long commands.md",
     "Groovy/Strings",
     "Groovy/Data structures",
