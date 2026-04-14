@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TexWorks/Install packages.md",
+                "file": "Writing/URL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Install packages"
+              "title": "URL"
             }
           }
         ]
@@ -171,22 +171,22 @@
   },
   "active": "31496a68fbfc493f",
   "lastOpenFiles": [
-    "TexWorks/1. Install.md",
+    "Configuring document/Other classes/Article.md",
+    "Inserts/Document content/Bibliography.md",
+    "Configuring document/Two column.md",
+    "Configuring document/Cover and single column.md",
+    "Writing/Text links.md",
+    "Inserts/Document content/Title.md",
     "TexWorks/Install packages.md",
+    "TexWorks/1. Install.md",
     "TexWorks/Word count.md",
     "TexWorks/Compile script.md",
     "TexWorks/Code.md",
-    "Configuring document/Other classes/Article.md",
-    "Configuring document/Cover and single column.md",
-    "Configuring document/Two column.md",
     "Coding in LaTeX/Multiblock comment.md",
     "Coding in LaTeX/Load .tex.md",
-    "Writing/Text links.md",
     "Inserts/Vertical space.md",
     "Inserts/Horizontal line.md",
     "Writing/Sections.md",
-    "Inserts/Document content/Bibliography.md",
-    "Inserts/Document content/Title.md",
     "Inserts/Figures/Number lists.md",
     "Inserts/Figures/Bullet lists.md",
     "Inserts/Symbols.md",
