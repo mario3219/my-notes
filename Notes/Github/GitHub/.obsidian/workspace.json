@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Branches/Push branch to remote.md",
+                "file": "Conflicts/Errors/error GH001 Large files detected.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Push branch to remote"
+              "title": "error GH001 Large files detected"
             }
           }
         ],
@@ -214,6 +214,7 @@
   },
   "active": "b375a07dac8e690f",
   "lastOpenFiles": [
+    "Branches/Push branch to remote.md",
     "Branches/1. Commands.md",
     "Branches/Pull branch from remote.md",
     "Branches/Merge.md",
@@ -221,7 +222,6 @@
     "Conflicts/Fix conflicts.md",
     "Other/stash.md",
     "Stash/Untitled.md",
-    "Branches/Push branch to remote.md",
     "Stash",
     "Conflicts/Set upstream.md",
     "Conflicts/Errors/error GH001 Large files detected.md",

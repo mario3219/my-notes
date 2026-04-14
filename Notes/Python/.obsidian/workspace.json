@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Guide/Arguments on runtime.md",
+                "file": "Libraries/os/Remove directory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arguments on runtime"
+              "title": "Remove directory"
             }
           }
         ],
@@ -186,10 +186,9 @@
   },
   "active": "576436e6444ef420",
   "lastOpenFiles": [
-    "Libraries/Pandas/Data Processing/Load&Save csv.md",
+    "Libraries/os/Remove file.md",
+    "Libraries/os/Remove directory.md",
     "Python Guide/Arguments on runtime.md",
-    "Libraries/Pandas/Data Processing/Create dataset.md",
-    "Libraries/Pandas/Data Processing/Add/Append rows & columns.md",
     "Libraries/os/Move files.md",
     "Libraries/Pandas/Data Processing/Series/Iterate.md",
     "Libraries/Pandas/Data Processing/Iterate.md",
@@ -198,9 +197,11 @@
     "Python Guide/Lists/Pop.md",
     "Libraries/Pandas/Data Processing/Get/Unique.md",
     "Libraries/numpy/Data/Get/unique.md",
+    "Libraries/Pandas/Data Processing/Load&Save csv.md",
     "Libraries/argparse.md",
     "Libraries/os/If path exists.md",
     "Libraries/Pandas/Data Processing/Get/Get all/Indexes.md",
+    "Libraries/Pandas/Data Processing/Create dataset.md",
     "Libraries/ScanPy/Get/Highly variable genes.md",
     "Libraries/tqdm.md",
     "Python Guide/Remove.md",
@@ -215,7 +216,6 @@
     "Libraries/ScanPy",
     "Python Guide/Lists/Add/Add.md",
     "Python Guide/Lists/List comprehension.md",
-    "Python Guide/Import code.md",
     "Python Guide/Booleans",
     "Scripts",
     "Libraries/numpy/Data/Edit",
