@@ -1,0 +1,3 @@
+```
+np.save(path, arr)
+```

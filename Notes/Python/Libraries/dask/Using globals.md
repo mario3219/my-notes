@@ -1,0 +1,1 @@
+Not recommended, pass them as parameters
