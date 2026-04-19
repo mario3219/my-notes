@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libraries/skimage/read tiff.md",
+                "file": "Libraries/os/Move or rename files.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "read tiff"
+              "title": "Move or rename files"
             }
           }
         ],
@@ -184,34 +184,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "576436e6444ef420",
+  "active": "a3a0486dcc483892",
   "lastOpenFiles": [
-    "Libraries/numpy/Data/Save.md",
-    "Libraries/tqdm.md",
-    "Python Guide/Lists/Add/Add.md",
-    "Libraries/skimage/read tiff.md",
-    "Python Guide/Arguments on runtime.md",
     "Libraries/Pandas/Data Processing/Remove/Remove any row with atleast one NaN.md",
-    "Libraries/Pandas/Data Processing/Edit/Fill NaNs.md",
-    "Libraries/Pandas/Data Processing/Edit/Untitled.md",
-    "Libraries/Pandas/Data Processing/Edit/Remove duplicates.md",
+    "Libraries/Pandas/Data Processing/Remove/Drop rows.md",
+    "Libraries/Pandas/Data Processing/Remove/Drop columns.md",
+    "Libraries/Pandas/Data Processing/Check/Check if NaNs.md",
+    "Libraries/Pandas/Data Processing/Edit/Casting types in each value.md",
+    "Libraries/Pandas/Data Processing/Edit/Editing every value in parts.md",
+    "Python Guide/Strings/Split strings/split.md",
+    "Libraries/Pandas/Data Processing/Iterate.md",
+    "Libraries/Pandas/Data Processing/Edit/Sort by column.md",
+    "Libraries/Pandas/Data Processing/Edit/Replace values.md",
     "Libraries/Pandas/Data Processing/Edit/Rename columns.md",
-    "Libraries/numpy/Data/Create.md",
-    "Libraries/numpy/Data/Types.md",
-    "Libraries/Pandas/Data Processing/Load&Save csv.md",
-    "Libraries/os/makedir.md",
-    "Libraries/os/If path exists.md",
-    "Libraries/ScanPy/Get/Get names.md",
-    "Libraries/ScanPy/Get/Threshold based on column.md",
-    "Python Guide/Strings/Regex/Split string based on many cases.md",
-    "Python Guide/Strings/Regex/List of patterns.md",
-    "Python Guide/Strings/Regex/1. Overview.md",
-    "Libraries/matplotlib.pyplot/figsizes.md",
-    "Libraries/matplotlib.pyplot/labels.md",
-    "Libraries/matplotlib.pyplot/subplots.md",
-    "Libraries/matplotlib.pyplot/savefig.md",
-    "Libraries/ScanPy/Edit/Sort.md",
-    "Libraries/ScanPy/Get/Highly variable genes.md",
+    "Libraries/Pandas/Data Processing/Edit/Remove duplicates.md",
+    "Libraries/Pandas/Data Processing/Edit/Fill NaNs.md",
+    "Libraries/Pandas/Data Processing/Edit/Edit all in a column.md",
+    "Libraries/Pandas/Data Processing/Get/Get all/Rows where column has a specific value.md",
+    "Libraries/Pandas/Data Processing/Get/Get one/Index.md",
+    "Libraries/Pandas/Data Processing/Get/Get one/Get column.md",
+    "Libraries/Pandas/Data Processing/Get/Unique.md",
+    "Python Guide/Lists/Intersection/List to list.md",
+    "Python Guide/Lists/Untitled.md",
+    "Python Guide/Lists/List to list.md",
+    "Python Guide/Lists/Intersection",
+    "Libraries/Pandas/Data Processing/Check/Check if in.md",
+    "Libraries/Pandas/Data Processing/Check/Check if zeros.md",
+    "Libraries/numpy/Polyfit.md",
+    "Python Guide/Lists/Save and load.md",
+    "Python Guide/Dictionaries/Dictionary keys to list.md",
     "Libraries/ScanPy/Edit",
     "Libraries/ScanPy/Add",
     "Pasted image 20260409152742.png",
@@ -221,7 +222,6 @@
     "Python Guide/Booleans",
     "Scripts",
     "Libraries/numpy/Data/Edit",
-    "Python Guide/Strings/Regex",
-    "Libraries/PyTorch/Autoencoders"
+    "Python Guide/Strings/Regex"
   ]
 }
