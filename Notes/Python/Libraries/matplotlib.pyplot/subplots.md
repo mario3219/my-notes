@@ -17,7 +17,15 @@ plt.show()
 fig, axs = plt.subplots(2, 2)
 axs[0, 0].plot(x, y)
 axs[1, 1].scatter(x, y)
+axs[1,1].set_title("Example")
 plt.close(fig)
+```
+
+Only two
+```
+fig, axs = plt.subplots(1,2) # 1 row 2 columns
+axs[0]...
+axs[1]...
 ```
 
 Layout
