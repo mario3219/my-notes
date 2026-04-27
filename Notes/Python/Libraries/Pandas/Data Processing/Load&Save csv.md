@@ -14,3 +14,7 @@ Save
 ```
 df.to_csv("out.csv", index=False)
 ```
+
+IMPORTANT! Use index=False, otherwise you get this weird column
+
+![[Pasted image 20260424141608.png]]
