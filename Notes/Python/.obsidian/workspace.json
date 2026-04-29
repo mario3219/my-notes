@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libraries/Pandas/Data Processing/Check/Check if value in column.md",
+                "file": "Libraries/numpy/Data/random.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Check if value in column"
+              "title": "random"
             }
           }
         ],
@@ -186,9 +186,12 @@
   },
   "active": "576436e6444ef420",
   "lastOpenFiles": [
-    "Libraries/Pandas/Data Processing/Load excel.md",
-    "Libraries/Pandas/Data Processing/Check/Check if value in column.md",
+    "Libraries/Pandas/Data Processing/Edit/Fill NaNs.md",
+    "Libraries/numpy/Data/random.md",
     "Libraries/Pandas/Data Processing/Create dataset.md",
+    "Libraries/os/Get parent.md",
+    "Libraries/Pandas/Data Processing/Check/Check if value in column.md",
+    "Libraries/Pandas/Data Processing/Load excel.md",
     "Libraries/Pandas/Data Processing/Remove/Drop rows.md",
     "Libraries/Pandas/Data Processing/Remove/Remove any row with atleast one NaN.md",
     "Python Guide/Arguments on runtime.md",
@@ -213,9 +216,6 @@
     "Python Guide/Error handling/raise.md",
     "Libraries/skimage/Regionprops.md",
     "Libraries/skimage/read tiff.md",
-    "Libraries/ScanPy/Get/Filter genes from list.md",
-    "Libraries/Pandas/Data Processing/to list.md",
-    "Libraries/os/If path exists.md",
     "Pasted image 20260420145145.png",
     "Python Guide/Lists/Get",
     "Python Guide/Sets/Get",
